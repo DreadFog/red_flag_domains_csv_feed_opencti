@@ -8,7 +8,7 @@ An openCTI-compatible CSV feed that enables automatic generation of indicators f
 2) Create a CSV mapper
 <img width="932" height="850" alt="image" src="https://github.com/user-attachments/assets/56e8feb6-5a5b-4066-bf3f-95328ce2c20f" />
 <img width="936" height="411" alt="image" src="https://github.com/user-attachments/assets/7766ea96-5775-417d-a828-ff0270da0793" />
-<img width="929" height="531" alt="image" src="https://github.com/user-attachments/assets/e653d5f2-fdda-4d34-a7f5-cbd17b2866ca" />
+<img width="935" height="545" alt="image" src="https://github.com/user-attachments/assets/fdb18db2-79f9-445e-b651-870c9a028643" />
 <img width="934" height="742" alt="image" src="https://github.com/user-attachments/assets/b7986f86-2acc-423e-bd39-32ed9e39bf59" />
 
 (Hardcode the author into the entities / the relationship)
