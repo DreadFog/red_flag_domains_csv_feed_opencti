@@ -1,0 +1,20 @@
+domain,stix_pattern,marking_type,marking_value,marking_priority
+arcticbets.fr,[domain-name:value = 'arcticbets.fr'],TLP,TLP:CLEAR,1
+ddz-prime.fr,[domain-name:value = 'ddz-prime.fr'],TLP,TLP:CLEAR,1
+digitposte.fr,[domain-name:value = 'digitposte.fr'],TLP,TLP:CLEAR,1
+laredoute-shops.fr,[domain-name:value = 'laredoute-shops.fr'],TLP,TLP:CLEAR,1
+mad-casino-enligne.fr,[domain-name:value = 'mad-casino-enligne.fr'],TLP,TLP:CLEAR,1
+madcasino-enligne.fr,[domain-name:value = 'madcasino-enligne.fr'],TLP,TLP:CLEAR,1
+mad-casinofr.fr,[domain-name:value = 'mad-casinofr.fr'],TLP,TLP:CLEAR,1
+madcasinofr.fr,[domain-name:value = 'madcasinofr.fr'],TLP,TLP:CLEAR,1
+madcasino-online.fr,[domain-name:value = 'madcasino-online.fr'],TLP,TLP:CLEAR,1
+mmp-prime.fr,[domain-name:value = 'mmp-prime.fr'],TLP,TLP:CLEAR,1
+monespace-doctolib.fr,[domain-name:value = 'monespace-doctolib.fr'],TLP,TLP:CLEAR,1
+per-prime.fr,[domain-name:value = 'per-prime.fr'],TLP,TLP:CLEAR,1
+pmm-prime.fr,[domain-name:value = 'pmm-prime.fr'],TLP,TLP:CLEAR,1
+point-relais-pickupcolis.fr,[domain-name:value = 'point-relais-pickupcolis.fr'],TLP,TLP:CLEAR,1
+set-prime.fr,[domain-name:value = 'set-prime.fr'],TLP,TLP:CLEAR,1
+suivi-mes-commandes-prime.fr,[domain-name:value = 'suivi-mes-commandes-prime.fr'],TLP,TLP:CLEAR,1
+support-de-remboursement.fr,[domain-name:value = 'support-de-remboursement.fr'],TLP,TLP:CLEAR,1
+votre-espace-renouvellement.fr,[domain-name:value = 'votre-espace-renouvellement.fr'],TLP,TLP:CLEAR,1
+zdd-prime.fr,[domain-name:value = 'zdd-prime.fr'],TLP,TLP:CLEAR,1

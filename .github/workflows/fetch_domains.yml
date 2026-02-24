@@ -1,0 +1,34 @@
+name: Fetch Red Flag Domains
+
+on:
+  schedule:
+    # Runs every day at 06:00 UTC (gives time for the previous day's file to be published)
+    - cron: "0 6 * * *"
+  workflow_dispatch: # allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch domains and generate CSV
+        run: python fetch_domains.py
+
+      - name: Commit and push updated CSV
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add daily_domains.csv
+          # Only commit if there are changes
+          git diff --cached --quiet || git commit -m "Update daily_domains.csv ($(date -u +%Y-%m-%d))"
+          git push
