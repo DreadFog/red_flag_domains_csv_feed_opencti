@@ -1,13 +1,14 @@
 domain,stix_pattern,marking_type,marking_value,marking_priority
-agefiph-urssaf.fr,[domain-name:value = 'agefiph-urssaf.fr'],TLP,TLP:CLEAR,1
-ameli-2026.fr,[domain-name:value = 'ameli-2026.fr'],TLP,TLP:CLEAR,1
-calvinklein-france.fr,[domain-name:value = 'calvinklein-france.fr'],TLP,TLP:CLEAR,1
-eadvance-prime.fr,[domain-name:value = 'eadvance-prime.fr'],TLP,TLP:CLEAR,1
-econnect-prime.fr,[domain-name:value = 'econnect-prime.fr'],TLP,TLP:CLEAR,1
-elogin-prime.fr,[domain-name:value = 'elogin-prime.fr'],TLP,TLP:CLEAR,1
-filepro-prime.fr,[domain-name:value = 'filepro-prime.fr'],TLP,TLP:CLEAR,1
-france-diplomatie.fr,[domain-name:value = 'france-diplomatie.fr'],TLP,TLP:CLEAR,1
-tools-prime.fr,[domain-name:value = 'tools-prime.fr'],TLP,TLP:CLEAR,1
-totalcasinoo.fr,[domain-name:value = 'totalcasinoo.fr'],TLP,TLP:CLEAR,1
-totalcasinoss.fr,[domain-name:value = 'totalcasinoss.fr'],TLP,TLP:CLEAR,1
-xn--amfprsidente-feb.fr,[domain-name:value = 'xn--amfprsidente-feb.fr'],TLP,TLP:CLEAR,1
+cartevital-renouvellement.fr,[domain-name:value = 'cartevital-renouvellement.fr'],TLP,TLP:CLEAR,1
+casombie-casinos.fr,[domain-name:value = 'casombie-casinos.fr'],TLP,TLP:CLEAR,1
+goldenpanda-casino.fr,[domain-name:value = 'goldenpanda-casino.fr'],TLP,TLP:CLEAR,1
+ioutlet.fr,[domain-name:value = 'ioutlet.fr'],TLP,TLP:CLEAR,1
+jeu-biocoop.fr,[domain-name:value = 'jeu-biocoop.fr'],TLP,TLP:CLEAR,1
+locowincasinoapp.fr,[domain-name:value = 'locowincasinoapp.fr'],TLP,TLP:CLEAR,1
+locowincasinobonus.fr,[domain-name:value = 'locowincasinobonus.fr'],TLP,TLP:CLEAR,1
+mangacasinofrance.fr,[domain-name:value = 'mangacasinofrance.fr'],TLP,TLP:CLEAR,1
+mavidis-leclerc.fr,[domain-name:value = 'mavidis-leclerc.fr'],TLP,TLP:CLEAR,1
+ninecasinobet.fr,[domain-name:value = 'ninecasinobet.fr'],TLP,TLP:CLEAR,1
+ninecasinopromo.fr,[domain-name:value = 'ninecasinopromo.fr'],TLP,TLP:CLEAR,1
+paypal-service.fr,[domain-name:value = 'paypal-service.fr'],TLP,TLP:CLEAR,1
+ralphlaurenfrance.fr,[domain-name:value = 'ralphlaurenfrance.fr'],TLP,TLP:CLEAR,1
