@@ -1,14 +1,5 @@
 domain,stix_pattern,marking_type,marking_value,marking_priority
-cartevital-renouvellement.fr,[domain-name:value = 'cartevital-renouvellement.fr'],TLP,TLP:CLEAR,1
-casombie-casinos.fr,[domain-name:value = 'casombie-casinos.fr'],TLP,TLP:CLEAR,1
-goldenpanda-casino.fr,[domain-name:value = 'goldenpanda-casino.fr'],TLP,TLP:CLEAR,1
-ioutlet.fr,[domain-name:value = 'ioutlet.fr'],TLP,TLP:CLEAR,1
-jeu-biocoop.fr,[domain-name:value = 'jeu-biocoop.fr'],TLP,TLP:CLEAR,1
-locowincasinoapp.fr,[domain-name:value = 'locowincasinoapp.fr'],TLP,TLP:CLEAR,1
-locowincasinobonus.fr,[domain-name:value = 'locowincasinobonus.fr'],TLP,TLP:CLEAR,1
-mangacasinofrance.fr,[domain-name:value = 'mangacasinofrance.fr'],TLP,TLP:CLEAR,1
-mavidis-leclerc.fr,[domain-name:value = 'mavidis-leclerc.fr'],TLP,TLP:CLEAR,1
-ninecasinobet.fr,[domain-name:value = 'ninecasinobet.fr'],TLP,TLP:CLEAR,1
-ninecasinopromo.fr,[domain-name:value = 'ninecasinopromo.fr'],TLP,TLP:CLEAR,1
-paypal-service.fr,[domain-name:value = 'paypal-service.fr'],TLP,TLP:CLEAR,1
-ralphlaurenfrance.fr,[domain-name:value = 'ralphlaurenfrance.fr'],TLP,TLP:CLEAR,1
+portail-choruspro-facturation.fr,[domain-name:value = 'portail-choruspro-facturation.fr'],TLP,TLP:CLEAR,1
+sig-labanquepostale.fr,[domain-name:value = 'sig-labanquepostale.fr'],TLP,TLP:CLEAR,1
+tupperwares.fr,[domain-name:value = 'tupperwares.fr'],TLP,TLP:CLEAR,1
+xn--paiementscurisleboncoin-jccf.fr,[domain-name:value = 'xn--paiementscurisleboncoin-jccf.fr'],TLP,TLP:CLEAR,1
