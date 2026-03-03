@@ -1,5 +1,10 @@
 domain,stix_pattern,marking_type,marking_value,marking_priority
-portail-choruspro-facturation.fr,[domain-name:value = 'portail-choruspro-facturation.fr'],TLP,TLP:CLEAR,1
-sig-labanquepostale.fr,[domain-name:value = 'sig-labanquepostale.fr'],TLP,TLP:CLEAR,1
-tupperwares.fr,[domain-name:value = 'tupperwares.fr'],TLP,TLP:CLEAR,1
-xn--paiementscurisleboncoin-jccf.fr,[domain-name:value = 'xn--paiementscurisleboncoin-jccf.fr'],TLP,TLP:CLEAR,1
+acc-paris.fr,[domain-name:value = 'acc-paris.fr'],TLP,TLP:CLEAR,1
+clientsecurite-sg.fr,[domain-name:value = 'clientsecurite-sg.fr'],TLP,TLP:CLEAR,1
+configsecure-entry.fr,[domain-name:value = 'configsecure-entry.fr'],TLP,TLP:CLEAR,1
+infotel-group.fr,[domain-name:value = 'infotel-group.fr'],TLP,TLP:CLEAR,1
+lidlredirect.fr,[domain-name:value = 'lidlredirect.fr'],TLP,TLP:CLEAR,1
+mon-service-prime.fr,[domain-name:value = 'mon-service-prime.fr'],TLP,TLP:CLEAR,1
+prime-mes-services.fr,[domain-name:value = 'prime-mes-services.fr'],TLP,TLP:CLEAR,1
+sign-labanquepostale.fr,[domain-name:value = 'sign-labanquepostale.fr'],TLP,TLP:CLEAR,1
+vivendiuniversal.fr,[domain-name:value = 'vivendiuniversal.fr'],TLP,TLP:CLEAR,1
