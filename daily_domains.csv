@@ -1,16 +1,6 @@
 domain,stix_pattern,marking_type,marking_value,marking_priority
-bossycasino-fr.fr,[domain-name:value = 'bossycasino-fr.fr'],TLP,TLP:CLEAR,1
-casinobossy-fr.fr,[domain-name:value = 'casinobossy-fr.fr'],TLP,TLP:CLEAR,1
-cbopposition.fr,[domain-name:value = 'cbopposition.fr'],TLP,TLP:CLEAR,1
-demarche-siv-interieurgouv.fr,[domain-name:value = 'demarche-siv-interieurgouv.fr'],TLP,TLP:CLEAR,1
-dossierenedis.fr,[domain-name:value = 'dossierenedis.fr'],TLP,TLP:CLEAR,1
-email-interieurgouv.fr,[domain-name:value = 'email-interieurgouv.fr'],TLP,TLP:CLEAR,1
-joka-casino1.fr,[domain-name:value = 'joka-casino1.fr'],TLP,TLP:CLEAR,1
-millionz-casinos.fr,[domain-name:value = 'millionz-casinos.fr'],TLP,TLP:CLEAR,1
-prime-souscription.fr,[domain-name:value = 'prime-souscription.fr'],TLP,TLP:CLEAR,1
-rembourser-statut-pcs.fr,[domain-name:value = 'rembourser-statut-pcs.fr'],TLP,TLP:CLEAR,1
-scc-france-av.fr,[domain-name:value = 'scc-france-av.fr'],TLP,TLP:CLEAR,1
-sebagofrancesoldes.fr,[domain-name:value = 'sebagofrancesoldes.fr'],TLP,TLP:CLEAR,1
-vegaspluscasino1.fr,[domain-name:value = 'vegaspluscasino1.fr'],TLP,TLP:CLEAR,1
-winmachancecasinos.fr,[domain-name:value = 'winmachancecasinos.fr'],TLP,TLP:CLEAR,1
-winspark-fr.fr,[domain-name:value = 'winspark-fr.fr'],TLP,TLP:CLEAR,1
+bracelet-swarovski-bijoux.fr,[domain-name:value = 'bracelet-swarovski-bijoux.fr'],TLP,TLP:CLEAR,1
+espace-foot.fr,[domain-name:value = 'espace-foot.fr'],TLP,TLP:CLEAR,1
+lucky8enligne.fr,[domain-name:value = 'lucky8enligne.fr'],TLP,TLP:CLEAR,1
+procedure-labanquepostale.fr,[domain-name:value = 'procedure-labanquepostale.fr'],TLP,TLP:CLEAR,1
+snapchats.fr,[domain-name:value = 'snapchats.fr'],TLP,TLP:CLEAR,1
