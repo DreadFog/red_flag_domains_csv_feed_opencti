@@ -1,10 +1,11 @@
 domain,stix_pattern,marking_type,marking_value,marking_priority
-connexion-1003.fr,[domain-name:value = 'connexion-1003.fr'],TLP,TLP:CLEAR,1
-connexion-10292.fr,[domain-name:value = 'connexion-10292.fr'],TLP,TLP:CLEAR,1
-connexion-12930.fr,[domain-name:value = 'connexion-12930.fr'],TLP,TLP:CLEAR,1
-connexion-1322.fr,[domain-name:value = 'connexion-1322.fr'],TLP,TLP:CLEAR,1
-connexion-1930.fr,[domain-name:value = 'connexion-1930.fr'],TLP,TLP:CLEAR,1
-connexion-9203.fr,[domain-name:value = 'connexion-9203.fr'],TLP,TLP:CLEAR,1
-hetzner.fr,[domain-name:value = 'hetzner.fr'],TLP,TLP:CLEAR,1
-pikolinos-france.fr,[domain-name:value = 'pikolinos-france.fr'],TLP,TLP:CLEAR,1
-reprogrammation-mondialrelay.fr,[domain-name:value = 'reprogrammation-mondialrelay.fr'],TLP,TLP:CLEAR,1
+doudoune-monclerpascher.fr,[domain-name:value = 'doudoune-monclerpascher.fr'],TLP,TLP:CLEAR,1
+formredirect.fr,[domain-name:value = 'formredirect.fr'],TLP,TLP:CLEAR,1
+kitchenaidfr.fr,[domain-name:value = 'kitchenaidfr.fr'],TLP,TLP:CLEAR,1
+ledigaro.fr,[domain-name:value = 'ledigaro.fr'],TLP,TLP:CLEAR,1
+lefigar.fr,[domain-name:value = 'lefigar.fr'],TLP,TLP:CLEAR,1
+lefigari.fr,[domain-name:value = 'lefigari.fr'],TLP,TLP:CLEAR,1
+lefigarp.fr,[domain-name:value = 'lefigarp.fr'],TLP,TLP:CLEAR,1
+lefigrao.fr,[domain-name:value = 'lefigrao.fr'],TLP,TLP:CLEAR,1
+lefogaro.fr,[domain-name:value = 'lefogaro.fr'],TLP,TLP:CLEAR,1
+transcash-activation.fr,[domain-name:value = 'transcash-activation.fr'],TLP,TLP:CLEAR,1
