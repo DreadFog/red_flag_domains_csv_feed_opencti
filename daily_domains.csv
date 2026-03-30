@@ -1,16 +1,11 @@
 domain,stix_pattern,marking_type,marking_value,marking_priority
-ace-game-fr.fr,[domain-name:value = 'ace-game-fr.fr'],TLP,TLP:CLEAR,1
-ace-game-france.fr,[domain-name:value = 'ace-game-france.fr'],TLP,TLP:CLEAR,1
-ace-game-officiel.fr,[domain-name:value = 'ace-game-officiel.fr'],TLP,TLP:CLEAR,1
-acegame-fr.fr,[domain-name:value = 'acegame-fr.fr'],TLP,TLP:CLEAR,1
-acegame-france.fr,[domain-name:value = 'acegame-france.fr'],TLP,TLP:CLEAR,1
-acegame-officiel.fr,[domain-name:value = 'acegame-officiel.fr'],TLP,TLP:CLEAR,1
-ayanakamura-billetterie.fr,[domain-name:value = 'ayanakamura-billetterie.fr'],TLP,TLP:CLEAR,1
-ch-islesurlasorgue.fr,[domain-name:value = 'ch-islesurlasorgue.fr'],TLP,TLP:CLEAR,1
-labenquepostale.fr,[domain-name:value = 'labenquepostale.fr'],TLP,TLP:CLEAR,1
-michaelkorsdiscount2013.fr,[domain-name:value = 'michaelkorsdiscount2013.fr'],TLP,TLP:CLEAR,1
-michaelkorsoutlet-clearance.fr,[domain-name:value = 'michaelkorsoutlet-clearance.fr'],TLP,TLP:CLEAR,1
-michaelkorsoutletts.fr,[domain-name:value = 'michaelkorsoutletts.fr'],TLP,TLP:CLEAR,1
-monde-relay-lockers.fr,[domain-name:value = 'monde-relay-lockers.fr'],TLP,TLP:CLEAR,1
-payfipinfo.fr,[domain-name:value = 'payfipinfo.fr'],TLP,TLP:CLEAR,1
-store-kway.fr,[domain-name:value = 'store-kway.fr'],TLP,TLP:CLEAR,1
+centre-opposition.fr,[domain-name:value = 'centre-opposition.fr'],TLP,TLP:CLEAR,1
+cerinterieurgouv.fr,[domain-name:value = 'cerinterieurgouv.fr'],TLP,TLP:CLEAR,1
+colis-dhl.fr,[domain-name:value = 'colis-dhl.fr'],TLP,TLP:CLEAR,1
+cominterieurgouv.fr,[domain-name:value = 'cominterieurgouv.fr'],TLP,TLP:CLEAR,1
+dgfip94.fr,[domain-name:value = 'dgfip94.fr'],TLP,TLP:CLEAR,1
+freitag-fr.fr,[domain-name:value = 'freitag-fr.fr'],TLP,TLP:CLEAR,1
+harley-davidson-shop-paris.fr,[domain-name:value = 'harley-davidson-shop-paris.fr'],TLP,TLP:CLEAR,1
+prointerieurgouv.fr,[domain-name:value = 'prointerieurgouv.fr'],TLP,TLP:CLEAR,1
+remboursement-ticket.fr,[domain-name:value = 'remboursement-ticket.fr'],TLP,TLP:CLEAR,1
+secure-auth.fr,[domain-name:value = 'secure-auth.fr'],TLP,TLP:CLEAR,1
