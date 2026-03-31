@@ -1,11 +1,14 @@
 domain,stix_pattern,marking_type,marking_value,marking_priority
-centre-opposition.fr,[domain-name:value = 'centre-opposition.fr'],TLP,TLP:CLEAR,1
-cerinterieurgouv.fr,[domain-name:value = 'cerinterieurgouv.fr'],TLP,TLP:CLEAR,1
-colis-dhl.fr,[domain-name:value = 'colis-dhl.fr'],TLP,TLP:CLEAR,1
-cominterieurgouv.fr,[domain-name:value = 'cominterieurgouv.fr'],TLP,TLP:CLEAR,1
-dgfip94.fr,[domain-name:value = 'dgfip94.fr'],TLP,TLP:CLEAR,1
-freitag-fr.fr,[domain-name:value = 'freitag-fr.fr'],TLP,TLP:CLEAR,1
-harley-davidson-shop-paris.fr,[domain-name:value = 'harley-davidson-shop-paris.fr'],TLP,TLP:CLEAR,1
-prointerieurgouv.fr,[domain-name:value = 'prointerieurgouv.fr'],TLP,TLP:CLEAR,1
-remboursement-ticket.fr,[domain-name:value = 'remboursement-ticket.fr'],TLP,TLP:CLEAR,1
-secure-auth.fr,[domain-name:value = 'secure-auth.fr'],TLP,TLP:CLEAR,1
+auth-connexion-ar.fr,[domain-name:value = 'auth-connexion-ar.fr'],TLP,TLP:CLEAR,1
+connexion-compt.fr,[domain-name:value = 'connexion-compt.fr'],TLP,TLP:CLEAR,1
+connexion-portal.fr,[domain-name:value = 'connexion-portal.fr'],TLP,TLP:CLEAR,1
+connexion-securisee.fr,[domain-name:value = 'connexion-securisee.fr'],TLP,TLP:CLEAR,1
+connexion-validation.fr,[domain-name:value = 'connexion-validation.fr'],TLP,TLP:CLEAR,1
+connexion-verification.fr,[domain-name:value = 'connexion-verification.fr'],TLP,TLP:CLEAR,1
+gouv-interieur.fr,[domain-name:value = 'gouv-interieur.fr'],TLP,TLP:CLEAR,1
+monchoruspro.fr,[domain-name:value = 'monchoruspro.fr'],TLP,TLP:CLEAR,1
+relaycolisredirection.fr,[domain-name:value = 'relaycolisredirection.fr'],TLP,TLP:CLEAR,1
+seconnecter-online.fr,[domain-name:value = 'seconnecter-online.fr'],TLP,TLP:CLEAR,1
+secure-connecte.fr,[domain-name:value = 'secure-connecte.fr'],TLP,TLP:CLEAR,1
+virementbnp-particulier.fr,[domain-name:value = 'virementbnp-particulier.fr'],TLP,TLP:CLEAR,1
+votrecartevitale.fr,[domain-name:value = 'votrecartevitale.fr'],TLP,TLP:CLEAR,1
