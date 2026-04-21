@@ -1,8 +1,11 @@
 domain,stix_pattern,marking_type,marking_value,marking_priority
-aritziafr.fr,[domain-name:value = 'aritziafr.fr'],TLP,TLP:CLEAR,1
-clickvinted.fr,[domain-name:value = 'clickvinted.fr'],TLP,TLP:CLEAR,1
-cpam-service.fr,[domain-name:value = 'cpam-service.fr'],TLP,TLP:CLEAR,1
-dsr-sivinterieurgouv.fr,[domain-name:value = 'dsr-sivinterieurgouv.fr'],TLP,TLP:CLEAR,1
-dsrinterieurgouv.fr,[domain-name:value = 'dsrinterieurgouv.fr'],TLP,TLP:CLEAR,1
-monbilletfrancais.fr,[domain-name:value = 'monbilletfrancais.fr'],TLP,TLP:CLEAR,1
-vinted-client.fr,[domain-name:value = 'vinted-client.fr'],TLP,TLP:CLEAR,1
+authentificationsg.fr,[domain-name:value = 'authentificationsg.fr'],TLP,TLP:CLEAR,1
+beautysucces.fr,[domain-name:value = 'beautysucces.fr'],TLP,TLP:CLEAR,1
+carte-vital.fr,[domain-name:value = 'carte-vital.fr'],TLP,TLP:CLEAR,1
+chat-gpt.fr,[domain-name:value = 'chat-gpt.fr'],TLP,TLP:CLEAR,1
+gitprime.fr,[domain-name:value = 'gitprime.fr'],TLP,TLP:CLEAR,1
+millionzcasinos.fr,[domain-name:value = 'millionzcasinos.fr'],TLP,TLP:CLEAR,1
+portail-immatriculation.fr,[domain-name:value = 'portail-immatriculation.fr'],TLP,TLP:CLEAR,1
+serviceremboursement.fr,[domain-name:value = 'serviceremboursement.fr'],TLP,TLP:CLEAR,1
+tondossier.fr,[domain-name:value = 'tondossier.fr'],TLP,TLP:CLEAR,1
+zara.re,[domain-name:value = 'zara.re'],TLP,TLP:CLEAR,1
