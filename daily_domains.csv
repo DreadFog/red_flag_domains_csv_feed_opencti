@@ -1,8 +1,13 @@
 domain,stix_pattern,marking_type,marking_value,marking_priority
-banques-france.fr,[domain-name:value = 'banques-france.fr'],TLP,TLP:CLEAR,1
-denimtearsstore.fr,[domain-name:value = 'denimtearsstore.fr'],TLP,TLP:CLEAR,1
-fr-casinozer.fr,[domain-name:value = 'fr-casinozer.fr'],TLP,TLP:CLEAR,1
-fr-travail.fr,[domain-name:value = 'fr-travail.fr'],TLP,TLP:CLEAR,1
-loiregouv.fr,[domain-name:value = 'loiregouv.fr'],TLP,TLP:CLEAR,1
-outletbirkenstockparis.fr,[domain-name:value = 'outletbirkenstockparis.fr'],TLP,TLP:CLEAR,1
-refundprime.fr,[domain-name:value = 'refundprime.fr'],TLP,TLP:CLEAR,1
+1ocaliser.fr,[domain-name:value = '1ocaliser.fr'],TLP,TLP:CLEAR,1
+blackm-officiel.fr,[domain-name:value = 'blackm-officiel.fr'],TLP,TLP:CLEAR,1
+casino-westace.fr,[domain-name:value = 'casino-westace.fr'],TLP,TLP:CLEAR,1
+laboutiquedusupporter.fr,[domain-name:value = 'laboutiquedusupporter.fr'],TLP,TLP:CLEAR,1
+porhub.fr,[domain-name:value = 'porhub.fr'],TLP,TLP:CLEAR,1
+rickowensfr.fr,[domain-name:value = 'rickowensfr.fr'],TLP,TLP:CLEAR,1
+runacasinoenligne.fr,[domain-name:value = 'runacasinoenligne.fr'],TLP,TLP:CLEAR,1
+runacasinoonline.fr,[domain-name:value = 'runacasinoonline.fr'],TLP,TLP:CLEAR,1
+tikitaka-bet.fr,[domain-name:value = 'tikitaka-bet.fr'],TLP,TLP:CLEAR,1
+tikitaka-online.fr,[domain-name:value = 'tikitaka-online.fr'],TLP,TLP:CLEAR,1
+tikitakacasinoonline.fr,[domain-name:value = 'tikitakacasinoonline.fr'],TLP,TLP:CLEAR,1
+wonderskin.fr,[domain-name:value = 'wonderskin.fr'],TLP,TLP:CLEAR,1
