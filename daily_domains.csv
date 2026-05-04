@@ -1,18 +1,5 @@
 domain,stix_pattern,marking_type,marking_value,marking_priority
-alexandercasino-france.fr,[domain-name:value = 'alexandercasino-france.fr'],TLP,TLP:CLEAR,1
-billet-aya-nakamura.fr,[domain-name:value = 'billet-aya-nakamura.fr'],TLP,TLP:CLEAR,1
-celiofrancecelio.fr,[domain-name:value = 'celiofrancecelio.fr'],TLP,TLP:CLEAR,1
-colis-mondial-aide.fr,[domain-name:value = 'colis-mondial-aide.fr'],TLP,TLP:CLEAR,1
-fr-fruitparty.fr,[domain-name:value = 'fr-fruitparty.fr'],TLP,TLP:CLEAR,1
-fr-gatesofolympus.fr,[domain-name:value = 'fr-gatesofolympus.fr'],TLP,TLP:CLEAR,1
-fr-limbo.fr,[domain-name:value = 'fr-limbo.fr'],TLP,TLP:CLEAR,1
-fr-lira-spin.fr,[domain-name:value = 'fr-lira-spin.fr'],TLP,TLP:CLEAR,1
-fr-penalty-shootout.fr,[domain-name:value = 'fr-penalty-shootout.fr'],TLP,TLP:CLEAR,1
-fr-redbaron.fr,[domain-name:value = 'fr-redbaron.fr'],TLP,TLP:CLEAR,1
-fr-rocketman.fr,[domain-name:value = 'fr-rocketman.fr'],TLP,TLP:CLEAR,1
-fr-spaceman.fr,[domain-name:value = 'fr-spaceman.fr'],TLP,TLP:CLEAR,1
-fr-starburst.fr,[domain-name:value = 'fr-starburst.fr'],TLP,TLP:CLEAR,1
-fr-sugarrush.fr,[domain-name:value = 'fr-sugarrush.fr'],TLP,TLP:CLEAR,1
-fr-sweet-bonanza.fr,[domain-name:value = 'fr-sweet-bonanza.fr'],TLP,TLP:CLEAR,1
-sendprime.fr,[domain-name:value = 'sendprime.fr'],TLP,TLP:CLEAR,1
-snaptchat.fr,[domain-name:value = 'snaptchat.fr'],TLP,TLP:CLEAR,1
+casa-outlet.fr,[domain-name:value = 'casa-outlet.fr'],TLP,TLP:CLEAR,1
+credit-agricole-securipass.fr,[domain-name:value = 'credit-agricole-securipass.fr'],TLP,TLP:CLEAR,1
+dgifp-reversement.fr,[domain-name:value = 'dgifp-reversement.fr'],TLP,TLP:CLEAR,1
+museum-orsay.fr,[domain-name:value = 'museum-orsay.fr'],TLP,TLP:CLEAR,1
