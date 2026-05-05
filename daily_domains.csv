@@ -1,5 +1,6 @@
 domain,stix_pattern,marking_type,marking_value,marking_priority
-casa-outlet.fr,[domain-name:value = 'casa-outlet.fr'],TLP,TLP:CLEAR,1
-credit-agricole-securipass.fr,[domain-name:value = 'credit-agricole-securipass.fr'],TLP,TLP:CLEAR,1
-dgifp-reversement.fr,[domain-name:value = 'dgifp-reversement.fr'],TLP,TLP:CLEAR,1
-museum-orsay.fr,[domain-name:value = 'museum-orsay.fr'],TLP,TLP:CLEAR,1
+burberryoutlet.fr,[domain-name:value = 'burberryoutlet.fr'],TLP,TLP:CLEAR,1
+chatgptplus.fr,[domain-name:value = 'chatgptplus.fr'],TLP,TLP:CLEAR,1
+contact-everyone-orange-business.fr,[domain-name:value = 'contact-everyone-orange-business.fr'],TLP,TLP:CLEAR,1
+mondial-relay-suivis.fr,[domain-name:value = 'mondial-relay-suivis.fr'],TLP,TLP:CLEAR,1
+unique-casino-pari.fr,[domain-name:value = 'unique-casino-pari.fr'],TLP,TLP:CLEAR,1
