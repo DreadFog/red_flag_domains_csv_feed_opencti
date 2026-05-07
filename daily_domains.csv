@@ -1,6 +1,12 @@
 domain,stix_pattern,marking_type,marking_value,marking_priority
-burberryoutlet.fr,[domain-name:value = 'burberryoutlet.fr'],TLP,TLP:CLEAR,1
-chatgptplus.fr,[domain-name:value = 'chatgptplus.fr'],TLP,TLP:CLEAR,1
-contact-everyone-orange-business.fr,[domain-name:value = 'contact-everyone-orange-business.fr'],TLP,TLP:CLEAR,1
-mondial-relay-suivis.fr,[domain-name:value = 'mondial-relay-suivis.fr'],TLP,TLP:CLEAR,1
-unique-casino-pari.fr,[domain-name:value = 'unique-casino-pari.fr'],TLP,TLP:CLEAR,1
+binance.tf,[domain-name:value = 'binance.tf'],TLP,TLP:CLEAR,1
+camelbakfrance.fr,[domain-name:value = 'camelbakfrance.fr'],TLP,TLP:CLEAR,1
+casino-stelario.fr,[domain-name:value = 'casino-stelario.fr'],TLP,TLP:CLEAR,1
+creditimmofortuneo.fr,[domain-name:value = 'creditimmofortuneo.fr'],TLP,TLP:CLEAR,1
+infoilabanquepostale.fr,[domain-name:value = 'infoilabanquepostale.fr'],TLP,TLP:CLEAR,1
+lolajack-online.fr,[domain-name:value = 'lolajack-online.fr'],TLP,TLP:CLEAR,1
+majesolde.fr,[domain-name:value = 'majesolde.fr'],TLP,TLP:CLEAR,1
+nikacasino1.fr,[domain-name:value = 'nikacasino1.fr'],TLP,TLP:CLEAR,1
+nwebmail-orange.fr,[domain-name:value = 'nwebmail-orange.fr'],TLP,TLP:CLEAR,1
+totalenergies-ai.fr,[domain-name:value = 'totalenergies-ai.fr'],TLP,TLP:CLEAR,1
+totalenergiesai.fr,[domain-name:value = 'totalenergiesai.fr'],TLP,TLP:CLEAR,1
