@@ -1,10 +1,14 @@
 domain,stix_pattern,marking_type,marking_value,marking_priority
-1win-login.fr,[domain-name:value = '1win-login.fr'],TLP,TLP:CLEAR,1
-1winpromocode.fr,[domain-name:value = '1winpromocode.fr'],TLP,TLP:CLEAR,1
-birkdestock.fr,[domain-name:value = 'birkdestock.fr'],TLP,TLP:CLEAR,1
-casino-evolve.fr,[domain-name:value = 'casino-evolve.fr'],TLP,TLP:CLEAR,1
-confirmationdujustificatif.fr,[domain-name:value = 'confirmationdujustificatif.fr'],TLP,TLP:CLEAR,1
-maillotcdm.fr,[domain-name:value = 'maillotcdm.fr'],TLP,TLP:CLEAR,1
-mondialrelaycolis.fr,[domain-name:value = 'mondialrelaycolis.fr'],TLP,TLP:CLEAR,1
-novaskinfr.fr,[domain-name:value = 'novaskinfr.fr'],TLP,TLP:CLEAR,1
-primecover.fr,[domain-name:value = 'primecover.fr'],TLP,TLP:CLEAR,1
+adidasoriginal.fr,[domain-name:value = 'adidasoriginal.fr'],TLP,TLP:CLEAR,1
+avenuebirkenstock.fr,[domain-name:value = 'avenuebirkenstock.fr'],TLP,TLP:CLEAR,1
+calzedoniasoldes.fr,[domain-name:value = 'calzedoniasoldes.fr'],TLP,TLP:CLEAR,1
+chunantes.fr,[domain-name:value = 'chunantes.fr'],TLP,TLP:CLEAR,1
+desigualsolde.fr,[domain-name:value = 'desigualsolde.fr'],TLP,TLP:CLEAR,1
+epsonfrance.fr,[domain-name:value = 'epsonfrance.fr'],TLP,TLP:CLEAR,1
+gendarmerieinterieur.fr,[domain-name:value = 'gendarmerieinterieur.fr'],TLP,TLP:CLEAR,1
+leonbet-france.fr,[domain-name:value = 'leonbet-france.fr'],TLP,TLP:CLEAR,1
+ouest--france.fr,[domain-name:value = 'ouest--france.fr'],TLP,TLP:CLEAR,1
+outletchezvous.fr,[domain-name:value = 'outletchezvous.fr'],TLP,TLP:CLEAR,1
+pandora-outlet.fr,[domain-name:value = 'pandora-outlet.fr'],TLP,TLP:CLEAR,1
+remboursement-en-attente.fr,[domain-name:value = 'remboursement-en-attente.fr'],TLP,TLP:CLEAR,1
+reversement-en-attente.fr,[domain-name:value = 'reversement-en-attente.fr'],TLP,TLP:CLEAR,1
