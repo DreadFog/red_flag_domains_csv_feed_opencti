@@ -1,13 +1,14 @@
 domain,stix_pattern,marking_type,marking_value,marking_priority
-bottle-bottle.fr,[domain-name:value = 'bottle-bottle.fr'],TLP,TLP:CLEAR,1
-bottlebottlefrance.fr,[domain-name:value = 'bottlebottlefrance.fr'],TLP,TLP:CLEAR,1
-diva-spin-fr.fr,[domain-name:value = 'diva-spin-fr.fr'],TLP,TLP:CLEAR,1
-douanes-govml.fr,[domain-name:value = 'douanes-govml.fr'],TLP,TLP:CLEAR,1
-etuduniv-evry.fr,[domain-name:value = 'etuduniv-evry.fr'],TLP,TLP:CLEAR,1
-gamblr-casino.fr,[domain-name:value = 'gamblr-casino.fr'],TLP,TLP:CLEAR,1
-gamblrcasino.fr,[domain-name:value = 'gamblrcasino.fr'],TLP,TLP:CLEAR,1
-mon-suivis-mondialrelay.fr,[domain-name:value = 'mon-suivis-mondialrelay.fr'],TLP,TLP:CLEAR,1
-mrwildz.fr,[domain-name:value = 'mrwildz.fr'],TLP,TLP:CLEAR,1
-mrwildzcasino.fr,[domain-name:value = 'mrwildzcasino.fr'],TLP,TLP:CLEAR,1
-reebok-fr.fr,[domain-name:value = 'reebok-fr.fr'],TLP,TLP:CLEAR,1
-roobetcasinoo.fr,[domain-name:value = 'roobetcasinoo.fr'],TLP,TLP:CLEAR,1
+ameli-remboursement-en-attente.fr,[domain-name:value = 'ameli-remboursement-en-attente.fr'],TLP,TLP:CLEAR,1
+barclaysbank.fr,[domain-name:value = 'barclaysbank.fr'],TLP,TLP:CLEAR,1
+camelbak-france.fr,[domain-name:value = 'camelbak-france.fr'],TLP,TLP:CLEAR,1
+credit-cooperatif-banque.fr,[domain-name:value = 'credit-cooperatif-banque.fr'],TLP,TLP:CLEAR,1
+fanzonestore.fr,[domain-name:value = 'fanzonestore.fr'],TLP,TLP:CLEAR,1
+grandzbet-online.fr,[domain-name:value = 'grandzbet-online.fr'],TLP,TLP:CLEAR,1
+mandat-sepa.fr,[domain-name:value = 'mandat-sepa.fr'],TLP,TLP:CLEAR,1
+packleboncoin.fr,[domain-name:value = 'packleboncoin.fr'],TLP,TLP:CLEAR,1
+particuliers-compte.fr,[domain-name:value = 'particuliers-compte.fr'],TLP,TLP:CLEAR,1
+redirection-colis.fr,[domain-name:value = 'redirection-colis.fr'],TLP,TLP:CLEAR,1
+roman-casino-online.fr,[domain-name:value = 'roman-casino-online.fr'],TLP,TLP:CLEAR,1
+tiktok.wf,[domain-name:value = 'tiktok.wf'],TLP,TLP:CLEAR,1
+www-transcash.fr,[domain-name:value = 'www-transcash.fr'],TLP,TLP:CLEAR,1
