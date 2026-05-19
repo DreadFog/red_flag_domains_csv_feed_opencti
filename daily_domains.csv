@@ -1,14 +1,8 @@
 domain,stix_pattern,marking_type,marking_value,marking_priority
-ameli-remboursement-en-attente.fr,[domain-name:value = 'ameli-remboursement-en-attente.fr'],TLP,TLP:CLEAR,1
-barclaysbank.fr,[domain-name:value = 'barclaysbank.fr'],TLP,TLP:CLEAR,1
-camelbak-france.fr,[domain-name:value = 'camelbak-france.fr'],TLP,TLP:CLEAR,1
-credit-cooperatif-banque.fr,[domain-name:value = 'credit-cooperatif-banque.fr'],TLP,TLP:CLEAR,1
-fanzonestore.fr,[domain-name:value = 'fanzonestore.fr'],TLP,TLP:CLEAR,1
-grandzbet-online.fr,[domain-name:value = 'grandzbet-online.fr'],TLP,TLP:CLEAR,1
-mandat-sepa.fr,[domain-name:value = 'mandat-sepa.fr'],TLP,TLP:CLEAR,1
-packleboncoin.fr,[domain-name:value = 'packleboncoin.fr'],TLP,TLP:CLEAR,1
-particuliers-compte.fr,[domain-name:value = 'particuliers-compte.fr'],TLP,TLP:CLEAR,1
-redirection-colis.fr,[domain-name:value = 'redirection-colis.fr'],TLP,TLP:CLEAR,1
-roman-casino-online.fr,[domain-name:value = 'roman-casino-online.fr'],TLP,TLP:CLEAR,1
-tiktok.wf,[domain-name:value = 'tiktok.wf'],TLP,TLP:CLEAR,1
-www-transcash.fr,[domain-name:value = 'www-transcash.fr'],TLP,TLP:CLEAR,1
+banquee-france.fr,[domain-name:value = 'banquee-france.fr'],TLP,TLP:CLEAR,1
+billetschateausaintange.fr,[domain-name:value = 'billetschateausaintange.fr'],TLP,TLP:CLEAR,1
+lemanwatches.fr,[domain-name:value = 'lemanwatches.fr'],TLP,TLP:CLEAR,1
+nine9casino.fr,[domain-name:value = 'nine9casino.fr'],TLP,TLP:CLEAR,1
+rizzspin-fr.fr,[domain-name:value = 'rizzspin-fr.fr'],TLP,TLP:CLEAR,1
+roblox.wf,[domain-name:value = 'roblox.wf'],TLP,TLP:CLEAR,1
+universitice-univ-rouen.fr,[domain-name:value = 'universitice-univ-rouen.fr'],TLP,TLP:CLEAR,1
