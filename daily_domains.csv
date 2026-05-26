@@ -1,8 +1,11 @@
 domain,stix_pattern,marking_type,marking_value,marking_priority
-casino-prive-france.fr,[domain-name:value = 'casino-prive-france.fr'],TLP,TLP:CLEAR,1
-donbet-fr.fr,[domain-name:value = 'donbet-fr.fr'],TLP,TLP:CLEAR,1
-faceb00k.fr,[domain-name:value = 'faceb00k.fr'],TLP,TLP:CLEAR,1
-facebookapk.fr,[domain-name:value = 'facebookapk.fr'],TLP,TLP:CLEAR,1
-maillotpro.fr,[domain-name:value = 'maillotpro.fr'],TLP,TLP:CLEAR,1
-noreplyfortuneo.fr,[domain-name:value = 'noreplyfortuneo.fr'],TLP,TLP:CLEAR,1
-primeclient.fr,[domain-name:value = 'primeclient.fr'],TLP,TLP:CLEAR,1
+bodensoldes.fr,[domain-name:value = 'bodensoldes.fr'],TLP,TLP:CLEAR,1
+doc-nickel.fr,[domain-name:value = 'doc-nickel.fr'],TLP,TLP:CLEAR,1
+fendifr.fr,[domain-name:value = 'fendifr.fr'],TLP,TLP:CLEAR,1
+gendarmerie-haute-savoie.fr,[domain-name:value = 'gendarmerie-haute-savoie.fr'],TLP,TLP:CLEAR,1
+geodgfip.fr,[domain-name:value = 'geodgfip.fr'],TLP,TLP:CLEAR,1
+id-chorus-facture-auth-openid-connect.fr,[domain-name:value = 'id-chorus-facture-auth-openid-connect.fr'],TLP,TLP:CLEAR,1
+kyc-nickel.fr,[domain-name:value = 'kyc-nickel.fr'],TLP,TLP:CLEAR,1
+onemaillot.fr,[domain-name:value = 'onemaillot.fr'],TLP,TLP:CLEAR,1
+primestreaming.fr,[domain-name:value = 'primestreaming.fr'],TLP,TLP:CLEAR,1
+rootsoutlet.fr,[domain-name:value = 'rootsoutlet.fr'],TLP,TLP:CLEAR,1
