@@ -1,11 +1,10 @@
 domain,stix_pattern,marking_type,marking_value,marking_priority
-bodensoldes.fr,[domain-name:value = 'bodensoldes.fr'],TLP,TLP:CLEAR,1
-doc-nickel.fr,[domain-name:value = 'doc-nickel.fr'],TLP,TLP:CLEAR,1
-fendifr.fr,[domain-name:value = 'fendifr.fr'],TLP,TLP:CLEAR,1
-gendarmerie-haute-savoie.fr,[domain-name:value = 'gendarmerie-haute-savoie.fr'],TLP,TLP:CLEAR,1
-geodgfip.fr,[domain-name:value = 'geodgfip.fr'],TLP,TLP:CLEAR,1
-id-chorus-facture-auth-openid-connect.fr,[domain-name:value = 'id-chorus-facture-auth-openid-connect.fr'],TLP,TLP:CLEAR,1
-kyc-nickel.fr,[domain-name:value = 'kyc-nickel.fr'],TLP,TLP:CLEAR,1
-onemaillot.fr,[domain-name:value = 'onemaillot.fr'],TLP,TLP:CLEAR,1
-primestreaming.fr,[domain-name:value = 'primestreaming.fr'],TLP,TLP:CLEAR,1
-rootsoutlet.fr,[domain-name:value = 'rootsoutlet.fr'],TLP,TLP:CLEAR,1
+aureoncasino.fr,[domain-name:value = 'aureoncasino.fr'],TLP,TLP:CLEAR,1
+chickenroadscasino-fr.fr,[domain-name:value = 'chickenroadscasino-fr.fr'],TLP,TLP:CLEAR,1
+fr-olympecasino.fr,[domain-name:value = 'fr-olympecasino.fr'],TLP,TLP:CLEAR,1
+gtbet-francais.fr,[domain-name:value = 'gtbet-francais.fr'],TLP,TLP:CLEAR,1
+gxbet-france.fr,[domain-name:value = 'gxbet-france.fr'],TLP,TLP:CLEAR,1
+onlyspins-francais.fr,[domain-name:value = 'onlyspins-francais.fr'],TLP,TLP:CLEAR,1
+psgmaillot.fr,[domain-name:value = 'psgmaillot.fr'],TLP,TLP:CLEAR,1
+rainbetcasinoonline.fr,[domain-name:value = 'rainbetcasinoonline.fr'],TLP,TLP:CLEAR,1
+suivre-mon-colis-mondialrelay.fr,[domain-name:value = 'suivre-mon-colis-mondialrelay.fr'],TLP,TLP:CLEAR,1
