@@ -1,8 +1,13 @@
 domain,stix_pattern,marking_type,marking_value,marking_priority
-amazondash.fr,[domain-name:value = 'amazondash.fr'],TLP,TLP:CLEAR,1
-antaai.fr,[domain-name:value = 'antaai.fr'],TLP,TLP:CLEAR,1
-bourso-assurance.fr,[domain-name:value = 'bourso-assurance.fr'],TLP,TLP:CLEAR,1
-cartierfrance.fr,[domain-name:value = 'cartierfrance.fr'],TLP,TLP:CLEAR,1
-geox-france.fr,[domain-name:value = 'geox-france.fr'],TLP,TLP:CLEAR,1
-reelson-fr.fr,[domain-name:value = 'reelson-fr.fr'],TLP,TLP:CLEAR,1
-securiserecharge.fr,[domain-name:value = 'securiserecharge.fr'],TLP,TLP:CLEAR,1
+converse-fr.fr,[domain-name:value = 'converse-fr.fr'],TLP,TLP:CLEAR,1
+corteizofficialstore.fr,[domain-name:value = 'corteizofficialstore.fr'],TLP,TLP:CLEAR,1
+espace-confirmation.fr,[domain-name:value = 'espace-confirmation.fr'],TLP,TLP:CLEAR,1
+fanmaillot.fr,[domain-name:value = 'fanmaillot.fr'],TLP,TLP:CLEAR,1
+francetelee.fr,[domain-name:value = 'francetelee.fr'],TLP,TLP:CLEAR,1
+maillotmondial.fr,[domain-name:value = 'maillotmondial.fr'],TLP,TLP:CLEAR,1
+maillotnation.fr,[domain-name:value = 'maillotnation.fr'],TLP,TLP:CLEAR,1
+maillots-officiels.fr,[domain-name:value = 'maillots-officiels.fr'],TLP,TLP:CLEAR,1
+psg-crypto.fr,[domain-name:value = 'psg-crypto.fr'],TLP,TLP:CLEAR,1
+psg30mai.fr,[domain-name:value = 'psg30mai.fr'],TLP,TLP:CLEAR,1
+psgcrypto.fr,[domain-name:value = 'psgcrypto.fr'],TLP,TLP:CLEAR,1
+vinted-verification.fr,[domain-name:value = 'vinted-verification.fr'],TLP,TLP:CLEAR,1
