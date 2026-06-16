@@ -1,15 +1,11 @@
 domain,stix_pattern,marking_type,marking_value,marking_priority
-caazeus.fr,[domain-name:value = 'caazeus.fr'],TLP,TLP:CLEAR,1
-docu-signs.fr,[domain-name:value = 'docu-signs.fr'],TLP,TLP:CLEAR,1
-maj-particulier.fr,[domain-name:value = 'maj-particulier.fr'],TLP,TLP:CLEAR,1
-metrofrance.fr,[domain-name:value = 'metrofrance.fr'],TLP,TLP:CLEAR,1
-monpretnikel.fr,[domain-name:value = 'monpretnikel.fr'],TLP,TLP:CLEAR,1
-notaier.fr,[domain-name:value = 'notaier.fr'],TLP,TLP:CLEAR,1
-primeguide.fr,[domain-name:value = 'primeguide.fr'],TLP,TLP:CLEAR,1
-relay-suivi.fr,[domain-name:value = 'relay-suivi.fr'],TLP,TLP:CLEAR,1
-status-mondialrelay.fr,[domain-name:value = 'status-mondialrelay.fr'],TLP,TLP:CLEAR,1
-suivis-numero-coiis.fr,[domain-name:value = 'suivis-numero-coiis.fr'],TLP,TLP:CLEAR,1
-swarovski-france.fr,[domain-name:value = 'swarovski-france.fr'],TLP,TLP:CLEAR,1
-swatchfrance.fr,[domain-name:value = 'swatchfrance.fr'],TLP,TLP:CLEAR,1
-univparis8.fr,[domain-name:value = 'univparis8.fr'],TLP,TLP:CLEAR,1
-vanssfrance.fr,[domain-name:value = 'vanssfrance.fr'],TLP,TLP:CLEAR,1
+adminpanellbp.fr,[domain-name:value = 'adminpanellbp.fr'],TLP,TLP:CLEAR,1
+altltudeinfra.fr,[domain-name:value = 'altltudeinfra.fr'],TLP,TLP:CLEAR,1
+amazoln.fr,[domain-name:value = 'amazoln.fr'],TLP,TLP:CLEAR,1
+dgfipfinancesgouvs.fr,[domain-name:value = 'dgfipfinancesgouvs.fr'],TLP,TLP:CLEAR,1
+gouv-justice.fr,[domain-name:value = 'gouv-justice.fr'],TLP,TLP:CLEAR,1
+maillotchampion.fr,[domain-name:value = 'maillotchampion.fr'],TLP,TLP:CLEAR,1
+oysho-soldes.fr,[domain-name:value = 'oysho-soldes.fr'],TLP,TLP:CLEAR,1
+papwwwppl.fr,[domain-name:value = 'papwwwppl.fr'],TLP,TLP:CLEAR,1
+seclabanquepostale.fr,[domain-name:value = 'seclabanquepostale.fr'],TLP,TLP:CLEAR,1
+volkswagenfrance.fr,[domain-name:value = 'volkswagenfrance.fr'],TLP,TLP:CLEAR,1
