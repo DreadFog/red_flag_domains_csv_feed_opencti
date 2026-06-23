@@ -1,9 +1,7 @@
 domain,stix_pattern,marking_type,marking_value,marking_priority
-annulationorder.fr,[domain-name:value = 'annulationorder.fr'],TLP,TLP:CLEAR,1
-bitcoinshop.fr,[domain-name:value = 'bitcoinshop.fr'],TLP,TLP:CLEAR,1
-cazeuscasinos.fr,[domain-name:value = 'cazeuscasinos.fr'],TLP,TLP:CLEAR,1
-controle-authentification-coupon.fr,[domain-name:value = 'controle-authentification-coupon.fr'],TLP,TLP:CLEAR,1
-luxury-shoes.fr,[domain-name:value = 'luxury-shoes.fr'],TLP,TLP:CLEAR,1
-magiuscasinoo.fr,[domain-name:value = 'magiuscasinoo.fr'],TLP,TLP:CLEAR,1
-poloralphlauren-pascher.fr,[domain-name:value = 'poloralphlauren-pascher.fr'],TLP,TLP:CLEAR,1
-sneakers-lab92.fr,[domain-name:value = 'sneakers-lab92.fr'],TLP,TLP:CLEAR,1
+comejaime.fr,[domain-name:value = 'comejaime.fr'],TLP,TLP:CLEAR,1
+futurespin.fr,[domain-name:value = 'futurespin.fr'],TLP,TLP:CLEAR,1
+keyzino-fr.fr,[domain-name:value = 'keyzino-fr.fr'],TLP,TLP:CLEAR,1
+lecoinbirken.fr,[domain-name:value = 'lecoinbirken.fr'],TLP,TLP:CLEAR,1
+tapisoutlet.fr,[domain-name:value = 'tapisoutlet.fr'],TLP,TLP:CLEAR,1
+wetransf.fr,[domain-name:value = 'wetransf.fr'],TLP,TLP:CLEAR,1
