@@ -1,14 +1,12 @@
 domain,stix_pattern,marking_type,marking_value,marking_priority
-annonces15390483.fr,[domain-name:value = 'annonces15390483.fr'],TLP,TLP:CLEAR,1
-disneydiscord.fr,[domain-name:value = 'disneydiscord.fr'],TLP,TLP:CLEAR,1
-francetonner.fr,[domain-name:value = 'francetonner.fr'],TLP,TLP:CLEAR,1
-gestion-abonnement-prime.fr,[domain-name:value = 'gestion-abonnement-prime.fr'],TLP,TLP:CLEAR,1
-goog1e.fr,[domain-name:value = 'goog1e.fr'],TLP,TLP:CLEAR,1
-groupons.fr,[domain-name:value = 'groupons.fr'],TLP,TLP:CLEAR,1
-login-infomaniak.fr,[domain-name:value = 'login-infomaniak.fr'],TLP,TLP:CLEAR,1
-louisvuitton.re,[domain-name:value = 'louisvuitton.re'],TLP,TLP:CLEAR,1
-michaelkorsfrance.fr,[domain-name:value = 'michaelkorsfrance.fr'],TLP,TLP:CLEAR,1
-moncanalplus.fr,[domain-name:value = 'moncanalplus.fr'],TLP,TLP:CLEAR,1
-mtf1.fr,[domain-name:value = 'mtf1.fr'],TLP,TLP:CLEAR,1
-ratpcodes2d.fr,[domain-name:value = 'ratpcodes2d.fr'],TLP,TLP:CLEAR,1
-service-remboursement.fr,[domain-name:value = 'service-remboursement.fr'],TLP,TLP:CLEAR,1
+annulationclient8122.fr,[domain-name:value = 'annulationclient8122.fr'],TLP,TLP:CLEAR,1
+annulprime.fr,[domain-name:value = 'annulprime.fr'],TLP,TLP:CLEAR,1
+assurance-renouvellement.fr,[domain-name:value = 'assurance-renouvellement.fr'],TLP,TLP:CLEAR,1
+cornprime.fr,[domain-name:value = 'cornprime.fr'],TLP,TLP:CLEAR,1
+critair-facile.fr,[domain-name:value = 'critair-facile.fr'],TLP,TLP:CLEAR,1
+dhlecommerce.fr,[domain-name:value = 'dhlecommerce.fr'],TLP,TLP:CLEAR,1
+newsprime.fr,[domain-name:value = 'newsprime.fr'],TLP,TLP:CLEAR,1
+outlook.pm,[domain-name:value = 'outlook.pm'],TLP,TLP:CLEAR,1
+reception-ar24.fr,[domain-name:value = 'reception-ar24.fr'],TLP,TLP:CLEAR,1
+vegashero-francias.fr,[domain-name:value = 'vegashero-francias.fr'],TLP,TLP:CLEAR,1
+virment-sepa-100-gratuit-j.fr,[domain-name:value = 'virment-sepa-100-gratuit-j.fr'],TLP,TLP:CLEAR,1
