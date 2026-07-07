@@ -1,6 +1,6 @@
 domain,stix_pattern,marking_type,marking_value,marking_priority
-authentif-lbc-espace-confirmation.fr,[domain-name:value = 'authentif-lbc-espace-confirmation.fr'],TLP,TLP:CLEAR,1
-coolingfansfr.fr,[domain-name:value = 'coolingfansfr.fr'],TLP,TLP:CLEAR,1
-fatpirate2.fr,[domain-name:value = 'fatpirate2.fr'],TLP,TLP:CLEAR,1
-instaasino.fr,[domain-name:value = 'instaasino.fr'],TLP,TLP:CLEAR,1
-notifications-service-lbc.fr,[domain-name:value = 'notifications-service-lbc.fr'],TLP,TLP:CLEAR,1
+auchan-eu.fr,[domain-name:value = 'auchan-eu.fr'],TLP,TLP:CLEAR,1
+banquepopulairegrandouest.fr,[domain-name:value = 'banquepopulairegrandouest.fr'],TLP,TLP:CLEAR,1
+connect-engie-secure.fr,[domain-name:value = 'connect-engie-secure.fr'],TLP,TLP:CLEAR,1
+snapchatlogin.fr,[domain-name:value = 'snapchatlogin.fr'],TLP,TLP:CLEAR,1
+you-tube.fr,[domain-name:value = 'you-tube.fr'],TLP,TLP:CLEAR,1
