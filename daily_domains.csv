@@ -1,6 +1,21 @@
 domain,stix_pattern,marking_type,marking_value,marking_priority
-auchan-eu.fr,[domain-name:value = 'auchan-eu.fr'],TLP,TLP:CLEAR,1
-banquepopulairegrandouest.fr,[domain-name:value = 'banquepopulairegrandouest.fr'],TLP,TLP:CLEAR,1
-connect-engie-secure.fr,[domain-name:value = 'connect-engie-secure.fr'],TLP,TLP:CLEAR,1
-snapchatlogin.fr,[domain-name:value = 'snapchatlogin.fr'],TLP,TLP:CLEAR,1
-you-tube.fr,[domain-name:value = 'you-tube.fr'],TLP,TLP:CLEAR,1
+banquepopulairego.fr,[domain-name:value = 'banquepopulairego.fr'],TLP,TLP:CLEAR,1
+caisse-epargnes.fr,[domain-name:value = 'caisse-epargnes.fr'],TLP,TLP:CLEAR,1
+casino-malina.fr,[domain-name:value = 'casino-malina.fr'],TLP,TLP:CLEAR,1
+coincasinos.fr,[domain-name:value = 'coincasinos.fr'],TLP,TLP:CLEAR,1
+com-paiement.fr,[domain-name:value = 'com-paiement.fr'],TLP,TLP:CLEAR,1
+dgfipfinancegouv.fr,[domain-name:value = 'dgfipfinancegouv.fr'],TLP,TLP:CLEAR,1
+dgfipgouvfinances.fr,[domain-name:value = 'dgfipgouvfinances.fr'],TLP,TLP:CLEAR,1
+espace-confirm-lb.fr,[domain-name:value = 'espace-confirm-lb.fr'],TLP,TLP:CLEAR,1
+facture-prime.fr,[domain-name:value = 'facture-prime.fr'],TLP,TLP:CLEAR,1
+gamblerina-fr.fr,[domain-name:value = 'gamblerina-fr.fr'],TLP,TLP:CLEAR,1
+gamblerina-france.fr,[domain-name:value = 'gamblerina-france.fr'],TLP,TLP:CLEAR,1
+gamblerinas.fr,[domain-name:value = 'gamblerinas.fr'],TLP,TLP:CLEAR,1
+iclouds.fr,[domain-name:value = 'iclouds.fr'],TLP,TLP:CLEAR,1
+magicalspinfrance.fr,[domain-name:value = 'magicalspinfrance.fr'],TLP,TLP:CLEAR,1
+moncolis-suivre.fr,[domain-name:value = 'moncolis-suivre.fr'],TLP,TLP:CLEAR,1
+montbellfrance.fr,[domain-name:value = 'montbellfrance.fr'],TLP,TLP:CLEAR,1
+notifcationmail.fr,[domain-name:value = 'notifcationmail.fr'],TLP,TLP:CLEAR,1
+services-universite-paris-saclay.fr,[domain-name:value = 'services-universite-paris-saclay.fr'],TLP,TLP:CLEAR,1
+univ-tous.fr,[domain-name:value = 'univ-tous.fr'],TLP,TLP:CLEAR,1
+wero-redirection.fr,[domain-name:value = 'wero-redirection.fr'],TLP,TLP:CLEAR,1
