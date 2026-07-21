@@ -1,5 +1,8 @@
 domain,stix_pattern,marking_type,marking_value,marking_priority
-account-electrodepot.fr,[domain-name:value = 'account-electrodepot.fr'],TLP,TLP:CLEAR,1
-intervention-enedis.fr,[domain-name:value = 'intervention-enedis.fr'],TLP,TLP:CLEAR,1
-laposte-mail.fr,[domain-name:value = 'laposte-mail.fr'],TLP,TLP:CLEAR,1
-napoleon-fr.fr,[domain-name:value = 'napoleon-fr.fr'],TLP,TLP:CLEAR,1
+commissariatjolimontpolice.fr,[domain-name:value = 'commissariatjolimontpolice.fr'],TLP,TLP:CLEAR,1
+conforme-interieurgouv.fr,[domain-name:value = 'conforme-interieurgouv.fr'],TLP,TLP:CLEAR,1
+conformite-interieurgouv.fr,[domain-name:value = 'conformite-interieurgouv.fr'],TLP,TLP:CLEAR,1
+dartyannulation.fr,[domain-name:value = 'dartyannulation.fr'],TLP,TLP:CLEAR,1
+destockdepot.fr,[domain-name:value = 'destockdepot.fr'],TLP,TLP:CLEAR,1
+electrodepot-account.fr,[domain-name:value = 'electrodepot-account.fr'],TLP,TLP:CLEAR,1
+fr-climnovate-discount.fr,[domain-name:value = 'fr-climnovate-discount.fr'],TLP,TLP:CLEAR,1
