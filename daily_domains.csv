@@ -1,8 +1,17 @@
 domain,stix_pattern,marking_type,marking_value,marking_priority
-commissariatjolimontpolice.fr,[domain-name:value = 'commissariatjolimontpolice.fr'],TLP,TLP:CLEAR,1
-conforme-interieurgouv.fr,[domain-name:value = 'conforme-interieurgouv.fr'],TLP,TLP:CLEAR,1
-conformite-interieurgouv.fr,[domain-name:value = 'conformite-interieurgouv.fr'],TLP,TLP:CLEAR,1
-dartyannulation.fr,[domain-name:value = 'dartyannulation.fr'],TLP,TLP:CLEAR,1
-destockdepot.fr,[domain-name:value = 'destockdepot.fr'],TLP,TLP:CLEAR,1
-electrodepot-account.fr,[domain-name:value = 'electrodepot-account.fr'],TLP,TLP:CLEAR,1
-fr-climnovate-discount.fr,[domain-name:value = 'fr-climnovate-discount.fr'],TLP,TLP:CLEAR,1
+cashed-fr.fr,[domain-name:value = 'cashed-fr.fr'],TLP,TLP:CLEAR,1
+casibom1.fr,[domain-name:value = 'casibom1.fr'],TLP,TLP:CLEAR,1
+casino-revolut.fr,[domain-name:value = 'casino-revolut.fr'],TLP,TLP:CLEAR,1
+droits-interieurgouv.fr,[domain-name:value = 'droits-interieurgouv.fr'],TLP,TLP:CLEAR,1
+electro-prodestock.fr,[domain-name:value = 'electro-prodestock.fr'],TLP,TLP:CLEAR,1
+emporio-store.fr,[domain-name:value = 'emporio-store.fr'],TLP,TLP:CLEAR,1
+goldenstar.tf,[domain-name:value = 'goldenstar.tf'],TLP,TLP:CLEAR,1
+ipcs-interieurgouv.fr,[domain-name:value = 'ipcs-interieurgouv.fr'],TLP,TLP:CLEAR,1
+noreply-prime.fr,[domain-name:value = 'noreply-prime.fr'],TLP,TLP:CLEAR,1
+normes-interieurgouv.fr,[domain-name:value = 'normes-interieurgouv.fr'],TLP,TLP:CLEAR,1
+prime-abonnement-supositoire.fr,[domain-name:value = 'prime-abonnement-supositoire.fr'],TLP,TLP:CLEAR,1
+royalpandaonline.fr,[domain-name:value = 'royalpandaonline.fr'],TLP,TLP:CLEAR,1
+slots-palace.tf,[domain-name:value = 'slots-palace.tf'],TLP,TLP:CLEAR,1
+slotspalace.tf,[domain-name:value = 'slotspalace.tf'],TLP,TLP:CLEAR,1
+timberlandfr.fr,[domain-name:value = 'timberlandfr.fr'],TLP,TLP:CLEAR,1
+webmail-prime.fr,[domain-name:value = 'webmail-prime.fr'],TLP,TLP:CLEAR,1
