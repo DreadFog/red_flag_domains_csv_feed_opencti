@@ -1,9 +1,8 @@
 domain,stix_pattern,marking_type,marking_value,marking_priority
-amirifr.fr,[domain-name:value = 'amirifr.fr'],TLP,TLP:CLEAR,1
-facturations-prime.fr,[domain-name:value = 'facturations-prime.fr'],TLP,TLP:CLEAR,1
-heavybetcasino.fr,[domain-name:value = 'heavybetcasino.fr'],TLP,TLP:CLEAR,1
-lacostes-france.fr,[domain-name:value = 'lacostes-france.fr'],TLP,TLP:CLEAR,1
-notifications-clients-prime.fr,[domain-name:value = 'notifications-clients-prime.fr'],TLP,TLP:CLEAR,1
-nvcasinofr.fr,[domain-name:value = 'nvcasinofr.fr'],TLP,TLP:CLEAR,1
-simsinocasino2.fr,[domain-name:value = 'simsinocasino2.fr'],TLP,TLP:CLEAR,1
-simsinocasino7.fr,[domain-name:value = 'simsinocasino7.fr'],TLP,TLP:CLEAR,1
+contact-electrodepot.fr,[domain-name:value = 'contact-electrodepot.fr'],TLP,TLP:CLEAR,1
+golden-gooses.fr,[domain-name:value = 'golden-gooses.fr'],TLP,TLP:CLEAR,1
+salomonfrancesoldes.fr,[domain-name:value = 'salomonfrancesoldes.fr'],TLP,TLP:CLEAR,1
+serviceclientbuylive.fr,[domain-name:value = 'serviceclientbuylive.fr'],TLP,TLP:CLEAR,1
+snappro.fr,[domain-name:value = 'snappro.fr'],TLP,TLP:CLEAR,1
+subwayreunion.re,[domain-name:value = 'subwayreunion.re'],TLP,TLP:CLEAR,1
+winbeatzcasinos.fr,[domain-name:value = 'winbeatzcasinos.fr'],TLP,TLP:CLEAR,1
