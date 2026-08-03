@@ -1,16 +1,10 @@
 domain,stix_pattern,marking_type,marking_value,marking_priority
-arubabet-france.fr,[domain-name:value = 'arubabet-france.fr'],TLP,TLP:CLEAR,1
-casinovacasinoonline.fr,[domain-name:value = 'casinovacasinoonline.fr'],TLP,TLP:CLEAR,1
-corgibet-enligne.fr,[domain-name:value = 'corgibet-enligne.fr'],TLP,TLP:CLEAR,1
-corgibet-france.fr,[domain-name:value = 'corgibet-france.fr'],TLP,TLP:CLEAR,1
-ellessefrance.fr,[domain-name:value = 'ellessefrance.fr'],TLP,TLP:CLEAR,1
-gouv-parisjustice.fr,[domain-name:value = 'gouv-parisjustice.fr'],TLP,TLP:CLEAR,1
-incaspin-online.fr,[domain-name:value = 'incaspin-online.fr'],TLP,TLP:CLEAR,1
-mondial-relay-livraison.fr,[domain-name:value = 'mondial-relay-livraison.fr'],TLP,TLP:CLEAR,1
-pr0fil-clientsv4.fr,[domain-name:value = 'pr0fil-clientsv4.fr'],TLP,TLP:CLEAR,1
-rayban-pas-cher.fr,[domain-name:value = 'rayban-pas-cher.fr'],TLP,TLP:CLEAR,1
-rowentafrance.fr,[domain-name:value = 'rowentafrance.fr'],TLP,TLP:CLEAR,1
-spinbara-francais.fr,[domain-name:value = 'spinbara-francais.fr'],TLP,TLP:CLEAR,1
-tineco-destock.fr,[domain-name:value = 'tineco-destock.fr'],TLP,TLP:CLEAR,1
-tinecodestock.fr,[domain-name:value = 'tinecodestock.fr'],TLP,TLP:CLEAR,1
-wedgwoodfrance.fr,[domain-name:value = 'wedgwoodfrance.fr'],TLP,TLP:CLEAR,1
+fff-billetterie.fr,[domain-name:value = 'fff-billetterie.fr'],TLP,TLP:CLEAR,1
+fr-sneakshop.fr,[domain-name:value = 'fr-sneakshop.fr'],TLP,TLP:CLEAR,1
+levantcasino.fr,[domain-name:value = 'levantcasino.fr'],TLP,TLP:CLEAR,1
+melun-police.fr,[domain-name:value = 'melun-police.fr'],TLP,TLP:CLEAR,1
+palaceskateboardsfrance.fr,[domain-name:value = 'palaceskateboardsfrance.fr'],TLP,TLP:CLEAR,1
+qeh-outlet.fr,[domain-name:value = 'qeh-outlet.fr'],TLP,TLP:CLEAR,1
+spinboss2.fr,[domain-name:value = 'spinboss2.fr'],TLP,TLP:CLEAR,1
+wettzo-fr.fr,[domain-name:value = 'wettzo-fr.fr'],TLP,TLP:CLEAR,1
+xn--leboncoin-paiement-securis-direct-purchase-fr-07d.fr,[domain-name:value = 'xn--leboncoin-paiement-securis-direct-purchase-fr-07d.fr'],TLP,TLP:CLEAR,1
