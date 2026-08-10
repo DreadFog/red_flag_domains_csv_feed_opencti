@@ -1,17 +1,10 @@
 domain,stix_pattern,marking_type,marking_value,marking_priority
-beetblast-fr.fr,[domain-name:value = 'beetblast-fr.fr'],TLP,TLP:CLEAR,1
-bouyguesstelecom.fr,[domain-name:value = 'bouyguesstelecom.fr'],TLP,TLP:CLEAR,1
-cisc-interieurgouv.fr,[domain-name:value = 'cisc-interieurgouv.fr'],TLP,TLP:CLEAR,1
-coolzino-online.fr,[domain-name:value = 'coolzino-online.fr'],TLP,TLP:CLEAR,1
-daytonaspin1.fr,[domain-name:value = 'daytonaspin1.fr'],TLP,TLP:CLEAR,1
-electrodepot-reply.fr,[domain-name:value = 'electrodepot-reply.fr'],TLP,TLP:CLEAR,1
-fr-winbeatz.fr,[domain-name:value = 'fr-winbeatz.fr'],TLP,TLP:CLEAR,1
-noreply-ca-nord.fr,[domain-name:value = 'noreply-ca-nord.fr'],TLP,TLP:CLEAR,1
-onlyspins2.fr,[domain-name:value = 'onlyspins2.fr'],TLP,TLP:CLEAR,1
-prism-store.fr,[domain-name:value = 'prism-store.fr'],TLP,TLP:CLEAR,1
-reprogrammation-colis.fr,[domain-name:value = 'reprogrammation-colis.fr'],TLP,TLP:CLEAR,1
-richroyal-casinoo.fr,[domain-name:value = 'richroyal-casinoo.fr'],TLP,TLP:CLEAR,1
-spin-star.fr,[domain-name:value = 'spin-star.fr'],TLP,TLP:CLEAR,1
-spinbaraonline.fr,[domain-name:value = 'spinbaraonline.fr'],TLP,TLP:CLEAR,1
-spinfin2.fr,[domain-name:value = 'spinfin2.fr'],TLP,TLP:CLEAR,1
-storeshoes.fr,[domain-name:value = 'storeshoes.fr'],TLP,TLP:CLEAR,1
+aramisauto.fr,[domain-name:value = 'aramisauto.fr'],TLP,TLP:CLEAR,1
+assurancerenouvellement-statut.fr,[domain-name:value = 'assurancerenouvellement-statut.fr'],TLP,TLP:CLEAR,1
+assurancerenouvellement.fr,[domain-name:value = 'assurancerenouvellement.fr'],TLP,TLP:CLEAR,1
+aybl-soldes.fr,[domain-name:value = 'aybl-soldes.fr'],TLP,TLP:CLEAR,1
+decants.fr,[domain-name:value = 'decants.fr'],TLP,TLP:CLEAR,1
+groupeleroymerlin.fr,[domain-name:value = 'groupeleroymerlin.fr'],TLP,TLP:CLEAR,1
+parfuemerie-harbeck.fr,[domain-name:value = 'parfuemerie-harbeck.fr'],TLP,TLP:CLEAR,1
+playmobilfrance.fr,[domain-name:value = 'playmobilfrance.fr'],TLP,TLP:CLEAR,1
+spinlynxcasino-fr.fr,[domain-name:value = 'spinlynxcasino-fr.fr'],TLP,TLP:CLEAR,1
