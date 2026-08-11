@@ -1,10 +1,10 @@
 domain,stix_pattern,marking_type,marking_value,marking_priority
-aramisauto.fr,[domain-name:value = 'aramisauto.fr'],TLP,TLP:CLEAR,1
-assurancerenouvellement-statut.fr,[domain-name:value = 'assurancerenouvellement-statut.fr'],TLP,TLP:CLEAR,1
-assurancerenouvellement.fr,[domain-name:value = 'assurancerenouvellement.fr'],TLP,TLP:CLEAR,1
-aybl-soldes.fr,[domain-name:value = 'aybl-soldes.fr'],TLP,TLP:CLEAR,1
-decants.fr,[domain-name:value = 'decants.fr'],TLP,TLP:CLEAR,1
-groupeleroymerlin.fr,[domain-name:value = 'groupeleroymerlin.fr'],TLP,TLP:CLEAR,1
-parfuemerie-harbeck.fr,[domain-name:value = 'parfuemerie-harbeck.fr'],TLP,TLP:CLEAR,1
-playmobilfrance.fr,[domain-name:value = 'playmobilfrance.fr'],TLP,TLP:CLEAR,1
-spinlynxcasino-fr.fr,[domain-name:value = 'spinlynxcasino-fr.fr'],TLP,TLP:CLEAR,1
+5-ee-mo.re,[domain-name:value = '5-ee-mo.re'],TLP,TLP:CLEAR,1
+5eem0.re,[domain-name:value = '5eem0.re'],TLP,TLP:CLEAR,1
+activerecharge.fr,[domain-name:value = 'activerecharge.fr'],TLP,TLP:CLEAR,1
+aidesecourspopulaire.fr,[domain-name:value = 'aidesecourspopulaire.fr'],TLP,TLP:CLEAR,1
+goldenchance.fr,[domain-name:value = 'goldenchance.fr'],TLP,TLP:CLEAR,1
+owalalife-fr.fr,[domain-name:value = 'owalalife-fr.fr'],TLP,TLP:CLEAR,1
+spinaura-casi.fr,[domain-name:value = 'spinaura-casi.fr'],TLP,TLP:CLEAR,1
+spinbara-casi.fr,[domain-name:value = 'spinbara-casi.fr'],TLP,TLP:CLEAR,1
+zangouv.fr,[domain-name:value = 'zangouv.fr'],TLP,TLP:CLEAR,1
