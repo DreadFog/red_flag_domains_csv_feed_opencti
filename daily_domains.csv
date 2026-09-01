@@ -1,15 +1,10 @@
 domain,stix_pattern,marking_type,marking_value,marking_priority
-axa-aassurance.fr,[domain-name:value = 'axa-aassurance.fr'],TLP,TLP:CLEAR,1
-boutiqueparissaintgermain.fr,[domain-name:value = 'boutiqueparissaintgermain.fr'],TLP,TLP:CLEAR,1
-casinohermesvip.fr,[domain-name:value = 'casinohermesvip.fr'],TLP,TLP:CLEAR,1
-cdiv-sivinterieurgouv.fr,[domain-name:value = 'cdiv-sivinterieurgouv.fr'],TLP,TLP:CLEAR,1
-cign-interieurgouv.fr,[domain-name:value = 'cign-interieurgouv.fr'],TLP,TLP:CLEAR,1
-conformite-ants.fr,[domain-name:value = 'conformite-ants.fr'],TLP,TLP:CLEAR,1
-fidc-interieurgouv.fr,[domain-name:value = 'fidc-interieurgouv.fr'],TLP,TLP:CLEAR,1
-icvhd-interieurgouv.fr,[domain-name:value = 'icvhd-interieurgouv.fr'],TLP,TLP:CLEAR,1
-serviceamazon.fr,[domain-name:value = 'serviceamazon.fr'],TLP,TLP:CLEAR,1
-siv-adergouv.fr,[domain-name:value = 'siv-adergouv.fr'],TLP,TLP:CLEAR,1
-siv-gouvants.fr,[domain-name:value = 'siv-gouvants.fr'],TLP,TLP:CLEAR,1
-siv-portailprogouv.fr,[domain-name:value = 'siv-portailprogouv.fr'],TLP,TLP:CLEAR,1
-univ-paris10.fr,[domain-name:value = 'univ-paris10.fr'],TLP,TLP:CLEAR,1
-visc-interieurgouv.fr,[domain-name:value = 'visc-interieurgouv.fr'],TLP,TLP:CLEAR,1
+1eboncoin.fr,[domain-name:value = '1eboncoin.fr'],TLP,TLP:CLEAR,1
+chrronopost.fr,[domain-name:value = 'chrronopost.fr'],TLP,TLP:CLEAR,1
+cvsq-interieurgouv.fr,[domain-name:value = 'cvsq-interieurgouv.fr'],TLP,TLP:CLEAR,1
+dofus-store.fr,[domain-name:value = 'dofus-store.fr'],TLP,TLP:CLEAR,1
+impots-espace-particuliers.fr,[domain-name:value = 'impots-espace-particuliers.fr'],TLP,TLP:CLEAR,1
+mondial-relais.fr,[domain-name:value = 'mondial-relais.fr'],TLP,TLP:CLEAR,1
+net-flix-paiement.fr,[domain-name:value = 'net-flix-paiement.fr'],TLP,TLP:CLEAR,1
+oranqee.fr,[domain-name:value = 'oranqee.fr'],TLP,TLP:CLEAR,1
+societegeneraleservicevirement.fr,[domain-name:value = 'societegeneraleservicevirement.fr'],TLP,TLP:CLEAR,1
