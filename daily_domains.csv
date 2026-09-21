@@ -1,15 +1,10 @@
 domain,stix_pattern,marking_type,marking_value,marking_priority
-casino-housebets.fr,[domain-name:value = 'casino-housebets.fr'],TLP,TLP:CLEAR,1
-casinohousebets.fr,[domain-name:value = 'casinohousebets.fr'],TLP,TLP:CLEAR,1
-cetelem-contact.fr,[domain-name:value = 'cetelem-contact.fr'],TLP,TLP:CLEAR,1
-confirmation-de-votre-rendez-vous-secu-via-leboncoin.fr,[domain-name:value = 'confirmation-de-votre-rendez-vous-secu-via-leboncoin.fr'],TLP,TLP:CLEAR,1
-free-assistance.fr,[domain-name:value = 'free-assistance.fr'],TLP,TLP:CLEAR,1
-hopital-ensisheim.fr,[domain-name:value = 'hopital-ensisheim.fr'],TLP,TLP:CLEAR,1
-jack-wolfskinfrance.fr,[domain-name:value = 'jack-wolfskinfrance.fr'],TLP,TLP:CLEAR,1
-labanqepostale.fr,[domain-name:value = 'labanqepostale.fr'],TLP,TLP:CLEAR,1
-mafia-online-play.fr,[domain-name:value = 'mafia-online-play.fr'],TLP,TLP:CLEAR,1
-mafia2-online.fr,[domain-name:value = 'mafia2-online.fr'],TLP,TLP:CLEAR,1
-notife-ar24.fr,[domain-name:value = 'notife-ar24.fr'],TLP,TLP:CLEAR,1
-seemoo.re,[domain-name:value = 'seemoo.re'],TLP,TLP:CLEAR,1
-stussy-store.fr,[domain-name:value = 'stussy-store.fr'],TLP,TLP:CLEAR,1
-xn--leboncoinscuris-knbf.fr,[domain-name:value = 'xn--leboncoinscuris-knbf.fr'],TLP,TLP:CLEAR,1
+colmar-soldes.fr,[domain-name:value = 'colmar-soldes.fr'],TLP,TLP:CLEAR,1
+espacecourriel.fr,[domain-name:value = 'espacecourriel.fr'],TLP,TLP:CLEAR,1
+espacetransactionsecurise.fr,[domain-name:value = 'espacetransactionsecurise.fr'],TLP,TLP:CLEAR,1
+maillotsonze.fr,[domain-name:value = 'maillotsonze.fr'],TLP,TLP:CLEAR,1
+nine-casinos-fr.fr,[domain-name:value = 'nine-casinos-fr.fr'],TLP,TLP:CLEAR,1
+ninecasinoenligne-fr.fr,[domain-name:value = 'ninecasinoenligne-fr.fr'],TLP,TLP:CLEAR,1
+prime-abo.fr,[domain-name:value = 'prime-abo.fr'],TLP,TLP:CLEAR,1
+ticket-rolandgarros.fr,[domain-name:value = 'ticket-rolandgarros.fr'],TLP,TLP:CLEAR,1
+vejasfr.fr,[domain-name:value = 'vejasfr.fr'],TLP,TLP:CLEAR,1
