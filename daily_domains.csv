@@ -1,10 +1,11 @@
 domain,stix_pattern,marking_type,marking_value,marking_priority
-colmar-soldes.fr,[domain-name:value = 'colmar-soldes.fr'],TLP,TLP:CLEAR,1
-espacecourriel.fr,[domain-name:value = 'espacecourriel.fr'],TLP,TLP:CLEAR,1
-espacetransactionsecurise.fr,[domain-name:value = 'espacetransactionsecurise.fr'],TLP,TLP:CLEAR,1
-maillotsonze.fr,[domain-name:value = 'maillotsonze.fr'],TLP,TLP:CLEAR,1
-nine-casinos-fr.fr,[domain-name:value = 'nine-casinos-fr.fr'],TLP,TLP:CLEAR,1
-ninecasinoenligne-fr.fr,[domain-name:value = 'ninecasinoenligne-fr.fr'],TLP,TLP:CLEAR,1
-prime-abo.fr,[domain-name:value = 'prime-abo.fr'],TLP,TLP:CLEAR,1
-ticket-rolandgarros.fr,[domain-name:value = 'ticket-rolandgarros.fr'],TLP,TLP:CLEAR,1
-vejasfr.fr,[domain-name:value = 'vejasfr.fr'],TLP,TLP:CLEAR,1
+baseus-store.fr,[domain-name:value = 'baseus-store.fr'],TLP,TLP:CLEAR,1
+bred-informatique.fr,[domain-name:value = 'bred-informatique.fr'],TLP,TLP:CLEAR,1
+compte-merchant-center-suspendu.fr,[domain-name:value = 'compte-merchant-center-suspendu.fr'],TLP,TLP:CLEAR,1
+fr-dysondestockage.fr,[domain-name:value = 'fr-dysondestockage.fr'],TLP,TLP:CLEAR,1
+onepieceshopparis2024.fr,[domain-name:value = 'onepieceshopparis2024.fr'],TLP,TLP:CLEAR,1
+penly-edf.fr,[domain-name:value = 'penly-edf.fr'],TLP,TLP:CLEAR,1
+reactivation-merchant-center.fr,[domain-name:value = 'reactivation-merchant-center.fr'],TLP,TLP:CLEAR,1
+seemro.re,[domain-name:value = 'seemro.re'],TLP,TLP:CLEAR,1
+trois-suisses.fr,[domain-name:value = 'trois-suisses.fr'],TLP,TLP:CLEAR,1
+xn--ffrandonne-j7a.fr,[domain-name:value = 'xn--ffrandonne-j7a.fr'],TLP,TLP:CLEAR,1
