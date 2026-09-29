@@ -1,7 +1,9 @@
 domain,stix_pattern,marking_type,marking_value,marking_priority
-amendes-gouv-pay.fr,[domain-name:value = 'amendes-gouv-pay.fr'],TLP,TLP:CLEAR,1
-bouygues-remboursement.fr,[domain-name:value = 'bouygues-remboursement.fr'],TLP,TLP:CLEAR,1
-burberry-france.fr,[domain-name:value = 'burberry-france.fr'],TLP,TLP:CLEAR,1
-coolizi-officiel.fr,[domain-name:value = 'coolizi-officiel.fr'],TLP,TLP:CLEAR,1
-frumzicasino-france.fr,[domain-name:value = 'frumzicasino-france.fr'],TLP,TLP:CLEAR,1
-stadedefrance-kaaris.fr,[domain-name:value = 'stadedefrance-kaaris.fr'],TLP,TLP:CLEAR,1
+cookies-casino.fr,[domain-name:value = 'cookies-casino.fr'],TLP,TLP:CLEAR,1
+critair-france.fr,[domain-name:value = 'critair-france.fr'],TLP,TLP:CLEAR,1
+dossier-ouvert-litige.fr,[domain-name:value = 'dossier-ouvert-litige.fr'],TLP,TLP:CLEAR,1
+france-outlet.fr,[domain-name:value = 'france-outlet.fr'],TLP,TLP:CLEAR,1
+outlook.yt,[domain-name:value = 'outlook.yt'],TLP,TLP:CLEAR,1
+paynotif.fr,[domain-name:value = 'paynotif.fr'],TLP,TLP:CLEAR,1
+rip-curl.fr,[domain-name:value = 'rip-curl.fr'],TLP,TLP:CLEAR,1
+sneakoutlet.fr,[domain-name:value = 'sneakoutlet.fr'],TLP,TLP:CLEAR,1
