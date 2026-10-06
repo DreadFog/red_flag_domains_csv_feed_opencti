@@ -1,13 +1,15 @@
 domain,stix_pattern,marking_type,marking_value,marking_priority
-aloyogasoldes.fr,[domain-name:value = 'aloyogasoldes.fr'],TLP,TLP:CLEAR,1
-ants-simplifier.fr,[domain-name:value = 'ants-simplifier.fr'],TLP,TLP:CLEAR,1
-autryfrance.fr,[domain-name:value = 'autryfrance.fr'],TLP,TLP:CLEAR,1
-brooksoldes.fr,[domain-name:value = 'brooksoldes.fr'],TLP,TLP:CLEAR,1
-fidelite-mcdonalds.fr,[domain-name:value = 'fidelite-mcdonalds.fr'],TLP,TLP:CLEAR,1
-fr-staxino.fr,[domain-name:value = 'fr-staxino.fr'],TLP,TLP:CLEAR,1
-journalist-univ-tours.fr,[domain-name:value = 'journalist-univ-tours.fr'],TLP,TLP:CLEAR,1
-pullman-eiffel-paris.fr,[domain-name:value = 'pullman-eiffel-paris.fr'],TLP,TLP:CLEAR,1
-pullman-paris-eiffel.fr,[domain-name:value = 'pullman-paris-eiffel.fr'],TLP,TLP:CLEAR,1
-pullman-paristoureiffel.fr,[domain-name:value = 'pullman-paristoureiffel.fr'],TLP,TLP:CLEAR,1
-recrutement-afpa.fr,[domain-name:value = 'recrutement-afpa.fr'],TLP,TLP:CLEAR,1
-vegasino-casino-fr.fr,[domain-name:value = 'vegasino-casino-fr.fr'],TLP,TLP:CLEAR,1
+birkenstock-soldes.fr,[domain-name:value = 'birkenstock-soldes.fr'],TLP,TLP:CLEAR,1
+celinenantes.fr,[domain-name:value = 'celinenantes.fr'],TLP,TLP:CLEAR,1
+francejustice.fr,[domain-name:value = 'francejustice.fr'],TLP,TLP:CLEAR,1
+gnstore.fr,[domain-name:value = 'gnstore.fr'],TLP,TLP:CLEAR,1
+k-way-outlet.fr,[domain-name:value = 'k-way-outlet.fr'],TLP,TLP:CLEAR,1
+paiementsecure-leboncoin.fr,[domain-name:value = 'paiementsecure-leboncoin.fr'],TLP,TLP:CLEAR,1
+prime-cee-edf.fr,[domain-name:value = 'prime-cee-edf.fr'],TLP,TLP:CLEAR,1
+reclamation-cnil.fr,[domain-name:value = 'reclamation-cnil.fr'],TLP,TLP:CLEAR,1
+rossmann.tf,[domain-name:value = 'rossmann.tf'],TLP,TLP:CLEAR,1
+scaso-leclerc.fr,[domain-name:value = 'scaso-leclerc.fr'],TLP,TLP:CLEAR,1
+support-amende.fr,[domain-name:value = 'support-amende.fr'],TLP,TLP:CLEAR,1
+trueluck-casino.fr,[domain-name:value = 'trueluck-casino.fr'],TLP,TLP:CLEAR,1
+trueluck-france.fr,[domain-name:value = 'trueluck-france.fr'],TLP,TLP:CLEAR,1
+trueluckcasino.fr,[domain-name:value = 'trueluckcasino.fr'],TLP,TLP:CLEAR,1
