@@ -1,5 +1,22 @@
 domain,stix_pattern,marking_type,marking_value,marking_priority
-ca-coeurdelille.fr,[domain-name:value = 'ca-coeurdelille.fr'],TLP,TLP:CLEAR,1
-francetinfo.fr,[domain-name:value = 'francetinfo.fr'],TLP,TLP:CLEAR,1
-gouvr.fr,[domain-name:value = 'gouvr.fr'],TLP,TLP:CLEAR,1
-sneakstore.fr,[domain-name:value = 'sneakstore.fr'],TLP,TLP:CLEAR,1
+1-win.fr,[domain-name:value = '1-win.fr'],TLP,TLP:CLEAR,1
+banquechalus.fr,[domain-name:value = 'banquechalus.fr'],TLP,TLP:CLEAR,1
+berghausfrance.fr,[domain-name:value = 'berghausfrance.fr'],TLP,TLP:CLEAR,1
+betify--fr.fr,[domain-name:value = 'betify--fr.fr'],TLP,TLP:CLEAR,1
+bordereaudepotsecuriser.fr,[domain-name:value = 'bordereaudepotsecuriser.fr'],TLP,TLP:CLEAR,1
+casinos-stake.fr,[domain-name:value = 'casinos-stake.fr'],TLP,TLP:CLEAR,1
+cnp--assurance.fr,[domain-name:value = 'cnp--assurance.fr'],TLP,TLP:CLEAR,1
+cws-bnpparibas.fr,[domain-name:value = 'cws-bnpparibas.fr'],TLP,TLP:CLEAR,1
+france-discowin.fr,[domain-name:value = 'france-discowin.fr'],TLP,TLP:CLEAR,1
+lagendarmerie.fr,[domain-name:value = 'lagendarmerie.fr'],TLP,TLP:CLEAR,1
+millioner1-casino.fr,[domain-name:value = 'millioner1-casino.fr'],TLP,TLP:CLEAR,1
+msnfr.fr,[domain-name:value = 'msnfr.fr'],TLP,TLP:CLEAR,1
+msnnews.fr,[domain-name:value = 'msnnews.fr'],TLP,TLP:CLEAR,1
+n7-neo-france.fr,[domain-name:value = 'n7-neo-france.fr'],TLP,TLP:CLEAR,1
+security-creditagricoles.fr,[domain-name:value = 'security-creditagricoles.fr'],TLP,TLP:CLEAR,1
+slv-ants.fr,[domain-name:value = 'slv-ants.fr'],TLP,TLP:CLEAR,1
+trueluck-casino-fr.fr,[domain-name:value = 'trueluck-casino-fr.fr'],TLP,TLP:CLEAR,1
+trueluck-casino-france.fr,[domain-name:value = 'trueluck-casino-france.fr'],TLP,TLP:CLEAR,1
+wwwgmail.fr,[domain-name:value = 'wwwgmail.fr'],TLP,TLP:CLEAR,1
+wwwsosh.fr,[domain-name:value = 'wwwsosh.fr'],TLP,TLP:CLEAR,1
+zombillion-casino.fr,[domain-name:value = 'zombillion-casino.fr'],TLP,TLP:CLEAR,1
