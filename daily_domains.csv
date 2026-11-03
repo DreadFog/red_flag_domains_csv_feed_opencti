@@ -1,10 +1,14 @@
 domain,stix_pattern,marking_type,marking_value,marking_priority
-auth-sg.fr,[domain-name:value = 'auth-sg.fr'],TLP,TLP:CLEAR,1
-credilynx-finance.fr,[domain-name:value = 'credilynx-finance.fr'],TLP,TLP:CLEAR,1
-gouv-diplomat.fr,[domain-name:value = 'gouv-diplomat.fr'],TLP,TLP:CLEAR,1
-hokachaussures.fr,[domain-name:value = 'hokachaussures.fr'],TLP,TLP:CLEAR,1
-hokaoutlet.fr,[domain-name:value = 'hokaoutlet.fr'],TLP,TLP:CLEAR,1
-merrellfrance-fr.fr,[domain-name:value = 'merrellfrance-fr.fr'],TLP,TLP:CLEAR,1
-padeloutlet.fr,[domain-name:value = 'padeloutlet.fr'],TLP,TLP:CLEAR,1
-polaroidsfrance.fr,[domain-name:value = 'polaroidsfrance.fr'],TLP,TLP:CLEAR,1
-spraygroundfr.fr,[domain-name:value = 'spraygroundfr.fr'],TLP,TLP:CLEAR,1
+airbus-helicopter.fr,[domain-name:value = 'airbus-helicopter.fr'],TLP,TLP:CLEAR,1
+annonceautoboncoin-packserenite.fr,[domain-name:value = 'annonceautoboncoin-packserenite.fr'],TLP,TLP:CLEAR,1
+beetospin-fr.fr,[domain-name:value = 'beetospin-fr.fr'],TLP,TLP:CLEAR,1
+beetospin.fr,[domain-name:value = 'beetospin.fr'],TLP,TLP:CLEAR,1
+cash-voiture.fr,[domain-name:value = 'cash-voiture.fr'],TLP,TLP:CLEAR,1
+casino-en-lignes-france.fr,[domain-name:value = 'casino-en-lignes-france.fr'],TLP,TLP:CLEAR,1
+ch-valence-pro.fr,[domain-name:value = 'ch-valence-pro.fr'],TLP,TLP:CLEAR,1
+cnam-lr.fr,[domain-name:value = 'cnam-lr.fr'],TLP,TLP:CLEAR,1
+colas-group.fr,[domain-name:value = 'colas-group.fr'],TLP,TLP:CLEAR,1
+group-safran.fr,[domain-name:value = 'group-safran.fr'],TLP,TLP:CLEAR,1
+mystakecasino.fr,[domain-name:value = 'mystakecasino.fr'],TLP,TLP:CLEAR,1
+pataugasfrance.fr,[domain-name:value = 'pataugasfrance.fr'],TLP,TLP:CLEAR,1
+uggoutlet.fr,[domain-name:value = 'uggoutlet.fr'],TLP,TLP:CLEAR,1
