@@ -1,12 +1,12 @@
 domain,stix_pattern,marking_type,marking_value,marking_priority
-banquepopulairebpce.fr,[domain-name:value = 'banquepopulairebpce.fr'],TLP,TLP:CLEAR,1
-billeterie-rclens.fr,[domain-name:value = 'billeterie-rclens.fr'],TLP,TLP:CLEAR,1
-bodumfrance.fr,[domain-name:value = 'bodumfrance.fr'],TLP,TLP:CLEAR,1
-creditmutuel-signature.fr,[domain-name:value = 'creditmutuel-signature.fr'],TLP,TLP:CLEAR,1
-enercoop-ardennes.fr,[domain-name:value = 'enercoop-ardennes.fr'],TLP,TLP:CLEAR,1
-groupebati-pro.fr,[domain-name:value = 'groupebati-pro.fr'],TLP,TLP:CLEAR,1
-guccifrance.fr,[domain-name:value = 'guccifrance.fr'],TLP,TLP:CLEAR,1
-hahahahahahahaha-mo.re,[domain-name:value = 'hahahahahahahaha-mo.re'],TLP,TLP:CLEAR,1
-migros-groupe.fr,[domain-name:value = 'migros-groupe.fr'],TLP,TLP:CLEAR,1
-summerclothes.fr,[domain-name:value = 'summerclothes.fr'],TLP,TLP:CLEAR,1
-windowsmicrosoft.fr,[domain-name:value = 'windowsmicrosoft.fr'],TLP,TLP:CLEAR,1
+appar24.fr,[domain-name:value = 'appar24.fr'],TLP,TLP:CLEAR,1
+assistprolrecommande.fr,[domain-name:value = 'assistprolrecommande.fr'],TLP,TLP:CLEAR,1
+assistprolrecommandecopilo.fr,[domain-name:value = 'assistprolrecommandecopilo.fr'],TLP,TLP:CLEAR,1
+assistprolrecommandeletreco.fr,[domain-name:value = 'assistprolrecommandeletreco.fr'],TLP,TLP:CLEAR,1
+cm-paysdelaloire.fr,[domain-name:value = 'cm-paysdelaloire.fr'],TLP,TLP:CLEAR,1
+conseiller-agricole.fr,[domain-name:value = 'conseiller-agricole.fr'],TLP,TLP:CLEAR,1
+conseillier-agricole.fr,[domain-name:value = 'conseillier-agricole.fr'],TLP,TLP:CLEAR,1
+nettflix.fr,[domain-name:value = 'nettflix.fr'],TLP,TLP:CLEAR,1
+pasal-see-mo.re,[domain-name:value = 'pasal-see-mo.re'],TLP,TLP:CLEAR,1
+spiingranny.fr,[domain-name:value = 'spiingranny.fr'],TLP,TLP:CLEAR,1
+spingranny4.fr,[domain-name:value = 'spingranny4.fr'],TLP,TLP:CLEAR,1
