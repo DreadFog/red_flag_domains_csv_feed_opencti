@@ -1,21 +1,5 @@
 domain,stix_pattern,marking_type,marking_value,marking_priority
-banq2france.fr,[domain-name:value = 'banq2france.fr'],TLP,TLP:CLEAR,1
-beetify.fr,[domain-name:value = 'beetify.fr'],TLP,TLP:CLEAR,1
-cc-montauban-de-bretagne.fr,[domain-name:value = 'cc-montauban-de-bretagne.fr'],TLP,TLP:CLEAR,1
-cc-paysbilurien.fr,[domain-name:value = 'cc-paysbilurien.fr'],TLP,TLP:CLEAR,1
-consogouv.fr,[domain-name:value = 'consogouv.fr'],TLP,TLP:CLEAR,1
-corivitus-fr.fr,[domain-name:value = 'corivitus-fr.fr'],TLP,TLP:CLEAR,1
-fr-corivitus.fr,[domain-name:value = 'fr-corivitus.fr'],TLP,TLP:CLEAR,1
-gta6-shop.fr,[domain-name:value = 'gta6-shop.fr'],TLP,TLP:CLEAR,1
-maagicalspin.fr,[domain-name:value = 'maagicalspin.fr'],TLP,TLP:CLEAR,1
-mon-espace-clients.fr,[domain-name:value = 'mon-espace-clients.fr'],TLP,TLP:CLEAR,1
-serviceclient-assurance-retraite.fr,[domain-name:value = 'serviceclient-assurance-retraite.fr'],TLP,TLP:CLEAR,1
-sevenplay-fr.fr,[domain-name:value = 'sevenplay-fr.fr'],TLP,TLP:CLEAR,1
-sevenplay1.fr,[domain-name:value = 'sevenplay1.fr'],TLP,TLP:CLEAR,1
-spin-shake.fr,[domain-name:value = 'spin-shake.fr'],TLP,TLP:CLEAR,1
-spinshake6.fr,[domain-name:value = 'spinshake6.fr'],TLP,TLP:CLEAR,1
-spintropolis-fr.fr,[domain-name:value = 'spintropolis-fr.fr'],TLP,TLP:CLEAR,1
-spintropolis8.fr,[domain-name:value = 'spintropolis8.fr'],TLP,TLP:CLEAR,1
-ticketsmaster-fr.fr,[domain-name:value = 'ticketsmaster-fr.fr'],TLP,TLP:CLEAR,1
-transaviasupport.fr,[domain-name:value = 'transaviasupport.fr'],TLP,TLP:CLEAR,1
-uggshop.fr,[domain-name:value = 'uggshop.fr'],TLP,TLP:CLEAR,1
+casinolumiere.fr,[domain-name:value = 'casinolumiere.fr'],TLP,TLP:CLEAR,1
+critair-france.fr,[domain-name:value = 'critair-france.fr'],TLP,TLP:CLEAR,1
+getrecharge.fr,[domain-name:value = 'getrecharge.fr'],TLP,TLP:CLEAR,1
+service-oppofrance.fr,[domain-name:value = 'service-oppofrance.fr'],TLP,TLP:CLEAR,1
