@@ -1,5 +1,13 @@
 domain,stix_pattern,marking_type,marking_value,marking_priority
-casinolumiere.fr,[domain-name:value = 'casinolumiere.fr'],TLP,TLP:CLEAR,1
-critair-france.fr,[domain-name:value = 'critair-france.fr'],TLP,TLP:CLEAR,1
-getrecharge.fr,[domain-name:value = 'getrecharge.fr'],TLP,TLP:CLEAR,1
-service-oppofrance.fr,[domain-name:value = 'service-oppofrance.fr'],TLP,TLP:CLEAR,1
+caissedesdepots.paris,[domain-name:value = 'caissedesdepots.paris'],TLP,TLP:CLEAR,1
+cloudsubscption.fr,[domain-name:value = 'cloudsubscption.fr'],TLP,TLP:CLEAR,1
+contact-police-national.fr,[domain-name:value = 'contact-police-national.fr'],TLP,TLP:CLEAR,1
+edfdepannage.fr,[domain-name:value = 'edfdepannage.fr'],TLP,TLP:CLEAR,1
+etherpay.fr,[domain-name:value = 'etherpay.fr'],TLP,TLP:CLEAR,1
+formulaire-esta-gratuit.fr,[domain-name:value = 'formulaire-esta-gratuit.fr'],TLP,TLP:CLEAR,1
+olivettifrance.fr,[domain-name:value = 'olivettifrance.fr'],TLP,TLP:CLEAR,1
+spinanga7.fr,[domain-name:value = 'spinanga7.fr'],TLP,TLP:CLEAR,1
+spinfest7.fr,[domain-name:value = 'spinfest7.fr'],TLP,TLP:CLEAR,1
+supportblockchain.fr,[domain-name:value = 'supportblockchain.fr'],TLP,TLP:CLEAR,1
+urban-outlet.fr,[domain-name:value = 'urban-outlet.fr'],TLP,TLP:CLEAR,1
+vegaspluscasinos.fr,[domain-name:value = 'vegaspluscasinos.fr'],TLP,TLP:CLEAR,1
